@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C692%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C691%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C690%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .watch one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,692 rows · **Live catalog:** 8,690 domains
+**Public extract:** 8,691 rows · **Live catalog:** 8,690 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/watch`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WATCH one-word domain
 
 ### Files
 
-- `watch.csv` — public CSV extract (8,692 rows)
-- `watch.json` — public JSON extract (8,692 rows)
+- `watch.csv` — public CSV extract (8,691 rows)
+- `watch.json` — public JSON extract (8,691 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -76,10 +76,10 @@ print(df.head())
 | unity.watch     | available | $4.99     | $56.99        | 70             | 40     | 5      | name.com                                                  |
 | space.watch     | resell    | —         | —             | 76             | 61     | 5      | GoDaddy.com, LLC                                          |
 | auto.watch      | premium   | $520      | $520          | 68             | 45     | 4      | namecheap                                                 |
-| shared.watch    | available | $4.99     | $56.99        | 70             | 39     | 6      | name.com                                                  |
+| gather.watch    | available | $4.99     | $56.99        | 96             | 39     | 6      | name.com                                                  |
 | pay.watch       | resell    | —         | —             | 84             | 60     | 3      | Spaceship, Inc.                                           |
 | king.watch      | premium   | $42.90    | $42.90        | 87             | 44     | 4      | namecheap                                                 |
-| gather.watch    | available | $4.99     | $56.99        | 96             | 38     | 6      | name.com                                                  |
+| shared.watch    | available | $4.99     | $56.99        | 70             | 39     | 6      | name.com                                                  |
 | free.watch      | resell    | —         | —             | 88             | 59     | 4      | Porkbun LLC                                               |
 | insurance.watch | premium   | $520      | $520          | 76             | 44     | 9      | namecheap                                                 |
 | europe.watch    | available | $4.99     | —             | 68             | 37     | 6      | name.com                                                  |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,692-row public sample | 8,690 live domains                               |
+| 8,691-row public sample | 8,690 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WATCH One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WATCH One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
