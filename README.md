@@ -1,20 +1,20 @@
-# Available .WATCH One-Word Domains (8,690)
+# Available .WATCH One-Word Domains (8,692)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C691%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C690%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C690%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C692%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .watch one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .watch one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 8,690-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,692 domains** on the canonical page below.
 
-**Public extract:** 8,691 rows · **Live catalog:** 8,690 domains
+**Public extract:** 8,690 rows · **Live catalog:** 8,692 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/watch`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WATCH one-word domain
 
 ### Files
 
-- `watch.csv` — public CSV extract (8,691 rows)
-- `watch.json` — public JSON extract (8,691 rows)
+- `watch.csv` — public CSV extract (8,690 rows)
+- `watch.json` — public JSON extract (8,690 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,10 +67,10 @@ print(df.head())
 | wizard.watch    | available | $4.99     | $56.99        | 118            | 43     | 6      | name.com                                                  |
 | now.watch       | resell    | —         | —             | 78             | 66     | 3      | Sav.com, LLC                                              |
 | athletics.watch | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap                                                 |
-| agile.watch     | available | $4.99     | $56.99        | 92             | 41     | 5      | name.com                                                  |
+| craft.watch     | available | $4.99     | $56.99        | 70             | 42     | 5      | name.com                                                  |
 | news.watch      | resell    | —         | —             | 100            | 64     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | travel.watch    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
-| craft.watch     | available | $4.99     | $56.99        | 70             | 41     | 5      | name.com                                                  |
+| agile.watch     | available | $4.99     | $56.99        | 92             | 41     | 5      | name.com                                                  |
 | home.watch      | resell    | —         | —             | 100            | 62     | 4      | GoDaddy.com, LLC                                          |
 | hotel.watch     | premium   | $520      | $520          | 70             | 45     | 5      | namecheap                                                 |
 | unity.watch     | available | $4.99     | $56.99        | 70             | 40     | 5      | name.com                                                  |
@@ -79,11 +79,11 @@ print(df.head())
 | gather.watch    | available | $4.99     | $56.99        | 96             | 39     | 6      | name.com                                                  |
 | pay.watch       | resell    | —         | —             | 84             | 60     | 3      | Spaceship, Inc.                                           |
 | king.watch      | premium   | $42.90    | $42.90        | 87             | 44     | 4      | namecheap                                                 |
-| shared.watch    | available | $4.99     | $56.99        | 70             | 39     | 6      | name.com                                                  |
-| free.watch      | resell    | —         | —             | 88             | 59     | 4      | Porkbun LLC                                               |
+| shared.watch    | available | $4.99     | $56.99        | 70             | 37     | 6      | name.com                                                  |
+| cloud.watch     | resell    | —         | —             | 70             | 59     | 5      | Spaceship, Inc.                                           |
 | insurance.watch | premium   | $520      | $520          | 76             | 44     | 9      | namecheap                                                 |
 | europe.watch    | available | $4.99     | —             | 68             | 37     | 6      | name.com                                                  |
-| cloud.watch     | resell    | —         | —             | 70             | 59     | 5      | Spaceship, Inc.                                           |
+| dot.watch       | resell    | —         | —             | 74             | 58     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,691-row public sample | 8,690 live domains                               |
+| 8,690-row public sample | 8,692 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
