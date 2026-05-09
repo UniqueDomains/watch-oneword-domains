@@ -497,6 +497,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2e56b29c-f9de-4da2-a06a-ab1702b4b9f0,precautions.watch,available,4.99,,48,2,11,name.com,,
 2e585d5d-6ca5-4d2e-80e0-17e13c43a9a5,landedestate.watch,available,4.99,,42,1,13,name.com,,
 2e5b3b25-1ef3-4af7-bea4-7131fdd925bd,hittingthepavement.watch,available,4.99,,46,1,20,name.com,,
+2e642e35-b1ca-4f04-b0a3-3db176733a6c,surprise.watch,premium,,,76,19,8,,,
 2e796457-50dc-4816-862d-034cdccc61ed,makeuse.watch,available,4.99,,78,1,8,name.com,,
 2e8597e7-073d-4eb3-b588-1a8e31a907f4,IliveinMelbourne.watch,available,56.98,,50,0,19,namecheap,,
 2e90906d-e704-43a1-ac7e-82f5c31706e9,turnorburn.watch,available,4.99,,56,1,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b640b6f-f99a-4c05-8110-3683d97d3dc1,arrivingat.watch,available,4.99,,50,1,11,name.com,,
 5b689b33-d179-44a1-8b57-30cde8f06065,whynot.watch,available,4.99,,74,39,7,name.com,,
 5b709c7a-5a12-4041-b277-46ab745207b3,makesomenoise.watch,available,4.99,,70,5,15,name.com,,
-5b76d14a-4236-440d-909f-62f3d2090a1e,dropaline.watch,available,4.99,,64,2,11,name.com,,
