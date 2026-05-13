@@ -755,6 +755,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 459c4915-02a3-47fc-a23a-8107a98e8558,texts.watch,available,4.99,,52,13,5,name.com,,
 459cb6f8-e982-42c4-8513-f520b120b391,Icouldeatabrick.watch,available,56.98,,50,1,19,namecheap,,
 45a85718-9fc9-4e1e-a128-3c2f39e04285,doesnotcompute.watch,available,4.99,,40,3,16,name.com,,
+45a93e53-d6d5-48e3-bdce-9bdeb298d6ad,goods.watch,premium,,,74,27,5,,,
 45ad3f61-a3f0-4954-a4a5-3346d4b45ef4,breakfasts.watch,available,4.99,,60,2,10,name.com,,
 45b3edb4-3758-47aa-bca5-97477f1e1539,tattooing.watch,available,4.99,,68,5,9,name.com,,
 45ccd882-515a-428d-9be6-2f938cc02971,inpatient.watch,available,4.99,,68,3,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b17936d-fe03-49da-812b-2b8b2d8e9339,feeltheburn.watch,available,4.99,,76,2,13,name.com,,
 5b640b6f-f99a-4c05-8110-3683d97d3dc1,arrivingat.watch,available,4.99,,50,1,11,name.com,,
 5b689b33-d179-44a1-8b57-30cde8f06065,whynot.watch,available,4.99,,74,39,7,name.com,,
-5b709c7a-5a12-4041-b277-46ab745207b3,makesomenoise.watch,available,4.99,,70,5,15,name.com,,
