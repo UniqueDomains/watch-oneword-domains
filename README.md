@@ -1,10 +1,10 @@
-# Available .WATCH One-Word Domains (11,602)
+# Available .WATCH One-Word Domains (11,603)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C602%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C603%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .watch one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,602 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,603 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,602 domains · **Median ask:** $13.46 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,603 domains · **Median ask:** $14.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/watch`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/watch`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .WATCH one-word domain
 
 ### Files
 
-- `watch.csv` — public CSV extract (1,000 rows)
-- `watch.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `watch.csv`, public CSV extract (1,000 rows)
+- `watch.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| letsgo.watch      | available | $4.99     | —             | 57             | 31     | 7      | name.com          |
-| online.watch      | resell    | —         | —             | 70             | 62     | 7      | Dynadot Inc       |
-| events.watch      | premium   | $500      | —             | 68             | 37     | 6      | name.com          |
-| maps.watch        | available | $4.99     | —             | 56             | 31     | 4      | name.com          |
-| time.watch        | resell    | —         | —             | 92             | 46     | 4      | Porkbun LLC       |
-| William.watch     | premium   | $138.60   | $138.60       | 74             | 31     | 7      | namecheap         |
-| spaces.watch      | available | $4.99     | —             | 54             | 30     | 6      | name.com          |
-| ever.watch        | resell    | —         | —             | 86             | 41     | 4      | Porkbun LLC       |
-| SanDiego.watch    | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo          |
-| blocks.watch      | available | $4.99     | —             | 53             | 29     | 6      | name.com          |
-| coins.watch       | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc       |
-| heroes.watch      | premium   | $82.50    | —             | 68             | 29     | 6      | name.com          |
-| Jim.watch         | available | $56.98    | —             | 78             | 28     | 3      | namecheap         |
-| perfect.watch     | resell    | —         | —             | 92             | 39     | 7      | Porkbun LLC       |
-| photos.watch      | premium   | $500      | —             | 54             | 28     | 6      | name.com          |
-| sites.watch       | available | $4.99     | —             | 53             | 26     | 5      | name.com          |
-| stories.watch     | resell    | —         | —             | 58             | 36     | 7      | Dynadot Inc       |
-| systems.watch     | premium   | $250      | —             | 46             | 27     | 7      | name.com          |
-| destination.watch | available | $4.99     | —             | 90             | 24     | 11     | name.com          |
-| anything.watch    | resell    | —         | —             | 68             | 31     | 8      | Sav.com, LLC - 36 |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ane.watch  | available | $3.48     | $56.98        | low            | low    | 3      | namecheap        |
+| dog.watch  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| age.watch  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| cow.watch  | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| set.watch  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
+| arm.watch  | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo         |
+| des.watch  | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| tap.watch  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| hug.watch  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ive.watch  | available | $4.99     | —             | medium         | low    | 3      | name.com         |
+| ball.watch | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC      |
+| mom.watch  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| lap.watch  | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| cast.watch | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc      |
+| non.watch  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| mop.watch  | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| east.watch | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| veg.watch  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| SSI.watch  | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| free.watch | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,602 live domains                        |
+| 1,000-row public sample | 11,603 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .watch domains. The set leans niche by extension, so the main question is whether the keyword and the .watch ending reinforce each other. Names such as compact.watch, appeal.watch, desk.watch, and premium.watch read clearly and can feel direct, but relevance varies by use case. For founders, the best options are usually the words that are easy to say, easy to remember, and naturally suited to a watch-focused brand or content angle. For investors, the cleaner opportunities are typically keywords with obvious commercial meaning, sensible ask levels, and a renewal profile that does not erode the entry price advantage.
+This set covers 11,603 one-word domain names on the .watch extension, ranging from everyday words like coffeeberry.watch and getmoving.watch to distinctive names like DaffyDuck.watch and JollyRoger.watch. With a median asking price near $14.68, most names in this selection are priced for quick, low-risk acquisition. Single-word .watch domains suit media, time-related, and lifestyle branding, and the shorter the word, the easier it is to recall and register consistently across channels. Because pricing updates daily, this list reflects current market asks rather than stale listings.
 
-- Prefer words that read naturally before .watch
-- Use median ask 13.46 as a rough price anchor
-- Check whether the keyword fits a watch-specific use
-- Avoid words with weak meaning or legal ambiguity
+- 11,603 one-word domain names built on the .watch extension
+- Median asking price near $14.68 keeps entry costs low
+- Short, single-word names are easy to brand and remember
+- Updated daily so pricing reflects current market asks
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WATCH One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WATCH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
