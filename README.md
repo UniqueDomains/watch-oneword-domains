@@ -1,10 +1,10 @@
-# Available .WATCH One-Word Domains (24,057)
+# Available .WATCH One-Word Domains (25,968)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C057%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C968%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .watch one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,057 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,968 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,057 domains · **Median ask:** $8.50 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 25,968 domains · **Median ask:** $8.42 · **High-demand under $2,500:** 0
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/watch`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,057 live domains                        |
+| 1,000-row public sample | 25,968 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
