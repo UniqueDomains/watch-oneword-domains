@@ -53,7 +53,7 @@ c18e9584-da0d-4a2b-b6ce-99b2f8385a7d,torn.watch,available,4.99,,medium,low,4,nam
 5f8709e0-9b29-4f72-97d6-3a4bd2279efb,businessman.watch,available,5.99,44.49,medium,low,11,namesilo,,,19/09/2026 04:56
 434c5bfd-5c7e-4858-9e24-a43bff45ed50,harleydavidson.watch,available,4.99,,high,low,15,name.com,,,
 3d1d524f-48aa-41cb-9c18-327ab9d17de1,artwork.watch,available,4.99,,high,low,7,name.com,,,
-0159122f-d536-4b0a-8ad5-b63202a87bfd,achievable.watch,available,4.99,56.99,high,low,10,name.com,,,
+0159122f-d536-4b0a-8ad5-b63202a87bfd,achievable.watch,available,5.99,44.49,medium,low,10,namesilo,,,21/09/2026 15:42
 2ec7e3ea-45aa-41d5-a51e-51426c8b2582,iceblue.watch,available,4.99,,high,low,8,name.com,,,
 a1391798-6b91-4235-bfbb-e7caea90eb2b,abstainer.watch,available,3.48,56.98,low,low,9,namecheap,,,
 32f3c5e3-0155-4af0-9b71-0073bfb5fe76,tahoe.watch,available,4.99,,medium,low,5,name.com,,,
@@ -65,11 +65,11 @@ af617e00-5230-4ef9-a82e-7cfd0f061548,stormy.watch,available,4.99,,medium,low,6,n
 1d3b4af2-6df6-4d32-95d9-83bbcd9cb5b9,planning.watch,available,4.99,,high,low,8,name.com,,,
 bf683ea2-8767-4e70-9354-dbbfc5390435,menu.watch,premium,242,242,high,low,4,namesilo,,,
 1c7b5cb9-0bcb-43ff-bcbc-70ede6a4ef4e,back.watch,available,,,high,high,4,,,,
-82556a35-ad07-4484-93e6-2fa4df8a3ae6,engrossed.watch,available,4.99,56.99,high,low,9,name.com,,,
+82556a35-ad07-4484-93e6-2fa4df8a3ae6,engrossed.watch,available,5.99,44.49,medium,low,9,namesilo,,,21/09/2026 15:00
 0bd93b50-89f9-4306-9215-3aa99246cd3f,baptized.watch,available,3.48,56.98,low,low,8,namecheap,,,08/08/2026 14:55
 3cfbbfb1-d0af-49cf-b653-d52e6aeeec42,packedlunch.watch,available,4.99,,high,low,12,name.com,,,
 79e7ad3e-2b01-4f42-9f1e-2f2d8ba4037e,saturday.watch,available,4.99,,high,low,8,name.com,,,
-2ea920d0-4796-4fe6-be25-59d3aa5cd91d,single.watch,available,4.99,56.99,high,low,6,name.com,,,
+2ea920d0-4796-4fe6-be25-59d3aa5cd91d,single.watch,available,3.48,56.98,medium,low,6,namecheap,,,21/09/2026 10:43
 2c6ae320-7829-4afd-ab9a-e94b900e56ac,contempt.watch,available,4.99,,medium,low,8,name.com,,,
 3f143ab1-328f-4115-8ae5-75fe17546bc5,arboreal.watch,available,3.48,56.98,low,low,8,namecheap,,,06/08/2026 13:18
 ca3b80af-a9fd-436c-8801-d1374a15fd69,bone.watch,available,4.99,,medium,low,4,name.com,,,
@@ -200,7 +200,7 @@ ff4ba8ec-114c-465c-a9c8-c6fbe74adec8,acrid.watch,available,3.48,56.98,low,low,5,
 323469c6-be71-437f-ac38-f34b278b47bc,ablative.watch,available,3.48,56.98,low,low,8,namecheap,,,
 be758a5d-0566-4961-b7c4-1caec00442dd,condolences.watch,available,4.99,,high,low,11,name.com,,,
 060d461a-edc3-45af-b4b2-cc1d7efeaa3d,commenting.watch,available,4.99,,medium,low,10,name.com,,,
-2350436d-cffa-4425-9fc3-52cb85619374,alone.watch,available,4.99,56.99,high,low,5,name.com,,,
+2350436d-cffa-4425-9fc3-52cb85619374,alone.watch,resell,4.99,56.99,low,low,5,name.com,,,22/09/2026 01:57
 2bb2f4bc-b5e1-4136-bf0b-0d10bb8f9366,justfriends.watch,available,4.99,,high,low,12,name.com,,,
 fd974495-781e-407f-af17-eff71df1f5f6,howmuch.watch,available,4.99,,high,low,8,name.com,,,
 149776e1-0b02-4f7a-a834-4b12e5b2693e,laserpointer.watch,available,4.99,,medium,low,13,name.com,,,
@@ -274,7 +274,7 @@ c47750e8-ecfa-455b-b3f4-4752ea18d5ec,ifalle.watch,available,4.99,,medium,low,7,n
 e3077e9c-0c30-449e-b55b-f906575fe89b,avellane.watch,available,3.48,56.98,low,low,8,namecheap,,,07/08/2026 22:29
 c9b05fe8-d97d-46f2-90a7-2b91dcb3ca1f,smallwords.watch,available,4.99,,low,low,11,name.com,,,
 6c36a49f-6b74-46a7-a55a-97f23d4cbdb1,aspirant.watch,available,3.48,56.98,low,low,8,namecheap,,,07/08/2026 05:02
-4d4a0d84-9995-471f-9b60-d2cf5d559837,nervous.watch,available,4.99,56.99,medium,low,7,name.com,,,
+4d4a0d84-9995-471f-9b60-d2cf5d559837,nervous.watch,available,3.48,56.98,low,low,7,namecheap,,,21/09/2026 22:02
 9161da09-6b90-416a-97a5-bcd88e68f413,follower.watch,available,4.99,,medium,low,8,name.com,,,
 de21efd8-8d97-40f9-8891-0c24e3064ccb,adjacent.watch,available,3.48,56.98,low,low,8,namecheap,,,
 e81bcffd-c61f-493a-8646-cc36a1c1f424,hardfacts.watch,available,4.99,,medium,low,10,name.com,,,
@@ -287,7 +287,7 @@ c71fb154-3013-494b-98e7-820d59eddbbc,lap.watch,available,4.99,,high,low,3,name.c
 e5302740-3320-4cfd-a802-87455e8501c2,czechoslovakia.watch,available,4.99,,medium,low,14,name.com,,,
 085ee267-4217-4048-8ad7-fb90d1339002,eremitical.watch,available,3.48,56.98,low,low,10,namecheap,,,
 6dd465ed-a24c-452f-8198-770fbcd096be,autotypic.watch,available,3.48,56.98,low,low,9,namecheap,,,07/08/2026 21:18
-ad3ddcb4-5eb9-46de-9ab5-7865e89fa41d,whole.watch,available,4.99,56.99,high,low,5,name.com,,,
+ad3ddcb4-5eb9-46de-9ab5-7865e89fa41d,whole.watch,available,5.99,44.49,medium,low,5,namesilo,,,22/09/2026 00:29
 1defdca1-c9ff-4a68-94e7-66b805cb51f7,givesomeoneahand.watch,available,4.99,,high,low,19,name.com,,,
 eb9c695e-8a31-4065-a241-49d08beefe5e,aft.watch,available,3.48,56.98,low,low,3,namecheap,,,
 2f58d1d7-3471-413a-85a7-adf1339c5836,andantino.watch,available,3.48,56.98,low,low,9,namecheap,,,
@@ -310,7 +310,7 @@ c6118ab2-f3a7-41b8-ab93-b08a8cee2871,condone.watch,available,4.99,,high,low,7,na
 35c4489e-c458-43fa-a61c-32b534c2d101,humanlike.watch,available,3.48,56.98,low,low,9,namecheap,,,
 b46def19-337a-4eec-a5a1-af50f86c20c3,typically.watch,available,4.99,,medium,low,9,name.com,,,
 cdfed25d-16fa-481c-b043-162c80626d65,sued.watch,available,4.99,,low,low,4,name.com,,,
-08ce11e7-baa3-4c8e-b7cc-5998649eeeb6,abnormal.watch,available,4.99,56.99,high,low,8,name.com,,,
+08ce11e7-baa3-4c8e-b7cc-5998649eeeb6,abnormal.watch,available,5.99,44.49,low,low,8,namesilo,,,21/09/2026 14:04
 de171514-85ea-46a1-925c-bf1ef47259e3,wishing.watch,available,4.99,,high,low,7,name.com,,,
 6f77ffa1-ae47-4568-b3ae-c59a5f5de497,lamppost.watch,available,4.99,,medium,low,8,name.com,,,
 a310eda0-c46c-4a12-8b6b-def4ab96c8db,threesome.watch,premium,500,500,low,low,9,name.com,,,
@@ -445,7 +445,7 @@ a1ad8c28-c37c-4840-ae36-b2abe32e3fb5,awlshaped.watch,available,3.48,56.98,low,lo
 8cfa9527-3f8c-4ad5-a6fc-7cc3cefcdbc7,bringon.watch,available,4.99,,high,low,8,name.com,,,
 7496d324-0024-414b-ba20-3000c0017875,stewart.watch,available,4.99,,medium,low,7,name.com,,,
 8790c4a8-8c52-4f72-9511-15f60540fc3c,bigmoney.watch,available,4.99,,high,low,9,name.com,,,
-67c503b4-d2a4-42e3-984e-9c6140975496,abdominal.watch,available,4.99,56.99,high,low,9,name.com,,,
+67c503b4-d2a4-42e3-984e-9c6140975496,abdominal.watch,available,5.99,44.49,low,low,9,namesilo,,,21/09/2026 13:47
 668344dd-c91b-4f27-b0db-4f0f5e6e9048,nettled.watch,available,3.48,56.98,low,low,7,namecheap,,,
 b7318475-4cfc-4a1f-8624-08c4c01b7d75,ikiribati.watch,available,4.99,,high,low,10,name.com,,,
 d8099618-d269-44f5-b5df-201080ce71c4,basifixed.watch,available,3.48,56.98,low,low,9,namecheap,,,08/08/2026 22:11
@@ -502,7 +502,7 @@ d7a9e97b-5ce6-4ee5-a1ed-0e7bb38ee01e,swerve.watch,available,4.99,,high,low,6,nam
 3266f5d0-fcf4-4143-982f-16b13bb4478c,divers.watch,resell,,,high,low,6,"GoDaddy.com, LLC",16/11/2015 00:39,16/11/2026 00:39,
 5e2cbe3a-e242-458c-8f90-60c175c9341a,washing.watch,available,4.99,,high,low,7,name.com,,,
 90fe0862-9e69-408e-bf26-3997e5895eed,idonotknowit.watch,available,4.99,,medium,low,16,name.com,,,
-83a77ef7-7ae6-411d-a222-d22d0fb40e3b,accepting.watch,available,4.99,56.99,high,low,9,name.com,,,
+83a77ef7-7ae6-411d-a222-d22d0fb40e3b,accepting.watch,available,5.99,44.49,medium,low,9,namesilo,,,21/09/2026 15:33
 1d692657-9855-400b-b78a-3aba14fa5172,tomato.watch,available,4.99,,high,low,6,name.com,,,
 245892e0-a6cc-4a77-a871-6194ddb2802e,augean.watch,available,3.48,56.98,low,low,6,namecheap,,,07/08/2026 16:54
 c7b65569-eb07-41e9-9453-5cd5413c7500,ive.watch,available,4.99,,medium,low,3,name.com,,,
@@ -513,12 +513,12 @@ d1521dc6-e5ba-45dd-8949-5eb54ae33510,money.watch,available,,,high,low,5,,,,
 77efddf7-57e4-4147-96da-05dee0b325c9,cultivable.watch,available,3.48,56.98,low,low,10,namecheap,,,06/08/2026 11:20
 b0df1d7b-5121-45df-b288-dbea6690fe34,goover.watch,available,3.48,56.98,low,low,7,namecheap,,,16/09/2026 10:25
 7dfda971-2856-447c-8b19-b387d6537b1d,boot.watch,available,4.99,,high,low,4,name.com,,,
-a42dbcda-0966-4e64-90a2-e79bea936210,acne.watch,available,4.99,,medium,low,4,name.com,,,
+a42dbcda-0966-4e64-90a2-e79bea936210,acne.watch,available,4.99,,low,low,4,name.com,,,
 851ea8d4-ce3b-40b1-ba38-4e122e6f22e8,getright.watch,available,4.99,,high,low,9,name.com,,,
 1f8d6147-15a0-4ba4-9e4d-31ba3ac2781c,behave.watch,available,4.99,,high,low,6,name.com,,,
 8d4cc955-0681-449c-9d09-de3419785963,extendto.watch,available,4.99,,high,low,9,name.com,,,
 afd88ec9-a02c-4ec6-b704-15e6d41cdc91,tortured.watch,available,3.48,56.98,low,low,8,namecheap,,,
-91efb76b-2701-4f3a-995c-09f0c1549654,absorbent.watch,available,3.48,56.98,low,low,9,namecheap,,,
+91efb76b-2701-4f3a-995c-09f0c1549654,absorbent.watch,available,3.48,56.98,medium,low,9,namecheap,,,
 0e00a78b-20a8-425e-b4c3-4e10345247eb,done.watch,available,4.99,56.99,high,low,4,name.com,,,
 9f395d34-e519-43bb-bb9f-b68412bc05fd,disturb.watch,available,4.99,,high,low,7,name.com,,,
 340e97f1-d2af-4339-857e-c2e45d68cc68,inspiteof.watch,available,4.99,,medium,low,11,name.com,,,
@@ -553,7 +553,7 @@ a54faa8b-f839-41a0-9c18-3549ea591453,amusive.watch,available,3.48,56.98,low,low,
 9c25d3f8-e7c5-41b9-8922-0d353dee2ef3,letterofreference.watch,available,4.99,,high,low,19,name.com,,,
 768cb631-7cbf-4ee2-84b6-887d02f947a3,maidens.watch,available,4.99,,high,low,7,name.com,,,
 f79bf37b-300d-424b-b790-cbfb9e73e66d,springtime.watch,available,4.99,,medium,low,11,name.com,,,
-cecde96d-c03c-4230-b9bd-b260ae648cf1,backtooth.watch,available,4.99,,medium,low,10,name.com,,,
+cecde96d-c03c-4230-b9bd-b260ae648cf1,backtooth.watch,available,5.99,44.49,low,low,10,namesilo,,,21/09/2026 14:54
 85f3af74-0812-4a88-a424-4f03d1bf2228,grasping.watch,available,3.48,56.98,low,low,8,namecheap,,,07/08/2026 22:04
 6b0fec91-4b2f-48e0-85ed-b048a991de4f,backslash.watch,available,4.99,,high,low,9,name.com,,,
 7d1a2cb1-e2f9-464e-9862-e469a1d6cc5c,daily.watch,premium,250,250,high,low,5,name.com,,,
@@ -572,7 +572,7 @@ bccfc9f1-1f36-4b41-a733-55a49306abc0,picture.watch,available,4.99,,high,low,7,na
 12fe53dd-3cb2-4ad3-b690-70a9800b25ee,restructuring.watch,available,4.99,,medium,low,13,name.com,,,
 a4ce0c2a-1f01-4b42-87f2-85f5b67540a9,somebudy.watch,available,4.99,,medium,low,8,name.com,,,
 70350966-86d0-4871-8d41-23f29c11c57b,demoniac.watch,available,3.48,56.98,low,low,8,namecheap,,,
-87531770-86ea-47a1-932a-94843ac84397,alkaline.watch,available,4.99,56.99,high,low,8,name.com,,,
+87531770-86ea-47a1-932a-94843ac84397,alkaline.watch,available,3.48,56.98,medium,low,8,namecheap,,,22/09/2026 00:14
 61b42c36-6da9-41c6-9f0f-d67243202ba6,quaternity.watch,available,3.48,56.98,low,low,10,namecheap,,,
 16423ac7-6ee6-486e-bbb3-7e643ac7ec09,stage.watch,available,,,medium,medium,5,,,,
 532dfe66-28d8-4d74-bd98-23ee027708c7,timeabout.watch,available,4.99,,low,low,10,name.com,,,
@@ -637,7 +637,8 @@ a6d79448-6289-45f7-ad7e-1b40030a456a,jack.watch,premium,118.8,118.8,high,medium,
 c117b53d-7dad-482d-93ae-863a9b59bd3c,knockitoff.watch,available,4.99,,high,low,12,name.com,,,
 ddee5bcf-2698-463a-bbea-252376e0d852,germany.watch,available,,,high,low,7,,,,
 bc4d4999-4faf-4893-82ef-3fc8660818a8,antibiotic.watch,available,4.99,,high,low,10,name.com,,,
-3005749c-82bd-428a-b2b0-856d64140a6e,acids.watch,available,4.99,,medium,low,5,name.com,,,
+ec9a1b52-3bba-4c92-a69b-de1dec8be406,equal.watch,available,3.48,56.98,medium,low,5,namecheap,,,21/09/2026 18:27
+3005749c-82bd-428a-b2b0-856d64140a6e,acids.watch,available,4.99,,low,low,5,name.com,,,
 13b8d6b4-ca1f-4329-bb25-9e92624c2882,havethefirstidea.watch,available,4.99,,medium,low,19,name.com,,,
 e68dbd28-9605-4a3b-864e-209fb36021cd,tomboy.watch,available,4.99,,medium,low,7,name.com,,,
 76ab426f-200a-4552-839f-418ce4f6b447,whattheheck.watch,available,4.99,,low,low,13,name.com,,,
@@ -684,7 +685,7 @@ d8271930-155c-4f08-be5e-2a625f9b95a5,clash.watch,available,4.99,,high,low,5,name
 34539ca3-383a-48e6-9601-8f33211b8e23,antacid.watch,available,4.99,,high,low,7,name.com,,,
 c60953c4-4f9a-4021-b430-c491eb96d24c,olympia.watch,available,4.99,,medium,low,7,name.com,,,
 206a7a67-35a8-4f23-96f4-35127035e978,impressed.watch,available,4.99,,medium,low,9,name.com,,,
-fe1052dd-a2ea-4275-bdbf-b44d4f73d336,warm.watch,available,4.99,56.99,high,low,4,name.com,,,
+fe1052dd-a2ea-4275-bdbf-b44d4f73d336,warm.watch,available,5.99,44.49,medium,low,4,namesilo,,,21/09/2026 21:51
 9cd07990-e7ae-468f-b971-d46a8ab8732e,then.watch,available,4.99,,high,low,4,name.com,,,
 f829cb68-1c9d-4dcf-b49c-f0175edfd30d,mania.watch,available,4.99,,medium,low,5,name.com,,,
 6d5bc577-95f5-485a-ac63-f7f7e3ba65c3,lovesome.watch,available,3.48,56.98,low,low,8,namecheap,,,
@@ -755,7 +756,7 @@ e7aae636-8817-4672-bf7b-11304eb77d67,accurst.watch,available,3.48,56.98,low,low,
 2277f45f-d575-45cb-942e-4b45ef037874,aerated.watch,available,3.48,56.98,low,low,7,namecheap,,,
 7b758002-3ffc-476c-959e-31b2b4e6647a,beautiful.watch,resell,,,medium,low,9,"Global Domains International, Inc. DBA DomainCostClub.com",05/06/2026 15:16,05/06/2027 15:16,08/09/2026 03:43
 265d93e3-e08c-43de-88ee-e5055f065acd,inthethickof.watch,available,4.99,,medium,low,15,name.com,,,
-8ecb67b4-187f-444e-a9a2-e9418e1da272,absolute.watch,available,4.99,56.99,high,low,8,name.com,,,
+8ecb67b4-187f-444e-a9a2-e9418e1da272,absolute.watch,available,5.99,44.49,medium,low,8,namesilo,,,21/09/2026 14:42
 d3a89270-c9af-4e0d-8a20-8c2dcb482cde,faveolate.watch,available,3.48,56.98,low,low,9,namecheap,,,
 3d2723d5-4af3-4e59-a28d-c7f59b3d3b08,manytimes.watch,available,4.99,,medium,low,10,name.com,,,
 a6ffece3-b9dd-47bd-8919-aae4fd64a19d,expression.watch,available,4.99,,high,low,10,name.com,,,
@@ -781,7 +782,7 @@ d34a8b70-93e4-43fd-abe1-1dc118a40719,attenuate.watch,available,3.48,56.98,low,lo
 62159257-c641-46f1-9e42-7a50d85b3fb3,deskchair.watch,available,4.99,,high,low,10,name.com,,,
 f3a22adf-692f-419e-a256-efebb9411b01,booklist.watch,available,4.99,,high,low,8,name.com,,,
 c6afb265-ac04-4164-9f8a-bf16a384c075,ilikepie.watch,available,4.99,,medium,low,10,name.com,,,
-63f4625e-6b75-489d-999f-1f5fee1ed019,xix.watch,available,4.99,56.99,high,low,3,name.com,,,
+63f4625e-6b75-489d-999f-1f5fee1ed019,xix.watch,available,5.99,44.49,medium,low,3,namesilo,,,21/09/2026 12:08
 af23310a-af98-4da0-9a2b-d62af3fa9e09,xxxv.watch,available,3.48,56.98,low,low,4,namecheap,,,
 c6772e5b-591d-40cb-8129-e056b6e8bf2c,occupy.watch,available,4.99,,medium,low,6,name.com,,,
 541cb5c5-4412-49a9-9e61-974853af32e3,anthropoid.watch,available,3.48,56.98,low,low,10,namecheap,,,
@@ -849,7 +850,7 @@ eea8789a-68a3-45ed-9b44-9f20ef56516e,reporting.watch,available,4.99,,medium,low,
 9e46d6f4-d364-40d5-9a4c-012d0b0c3ab7,substantial.watch,available,4.99,,high,low,11,name.com,,,
 edb0f653-93d6-434a-b01a-74b2d330dc8e,fingers.watch,available,4.99,,medium,low,7,name.com,,,
 34fb2096-a624-42e5-8fff-c4321f3292fc,diversify.watch,available,4.99,,high,low,9,name.com,,,
-4530e38a-2625-4b72-a65b-5816e4708a47,acceptable.watch,available,4.99,56.99,high,low,10,name.com,,,
+4530e38a-2625-4b72-a65b-5816e4708a47,acceptable.watch,available,5.99,44.49,medium,low,10,namesilo,,,21/09/2026 15:23
 af379df9-51e6-4ce9-a5fb-ad6f34258a33,slam.watch,available,4.99,,high,low,4,name.com,,,
 638bdbbe-f886-4e81-a345-3fa5176a0f92,relationship.watch,available,4.99,,high,low,12,name.com,,,
 1f574eb1-a2ad-4e3e-b7b7-5538e7a61af3,satisfied.watch,available,4.99,,high,low,9,name.com,,,
@@ -877,11 +878,11 @@ c1d726c2-f745-4bfd-b857-975518754648,tile.watch,available,4.99,,high,low,4,name.
 27e81b89-63c5-4373-8516-042884b7e1d8,offstage.watch,available,3.48,56.98,medium,low,8,namecheap,,,08/08/2026 06:14
 f2af7393-ba07-4c73-9909-1eb06fca7d2b,athousand.watch,available,4.99,,medium,low,10,name.com,,,
 d6023475-2be9-45f0-bfaa-f9958f63bc89,clinic.watch,premium,500,,high,low,6,name.com,,,
-b0f6b971-3399-4c75-b1fb-d1d3ae0ca866,agreed.watch,available,4.99,56.99,high,low,6,name.com,,,
+b0f6b971-3399-4c75-b1fb-d1d3ae0ca866,agreed.watch,available,5.99,44.49,medium,low,6,namesilo,,,21/09/2026 23:21
 d7a6ec41-8fc3-4a4c-a1de-f51cd9563696,dracula.watch,available,4.99,,high,low,7,name.com,,,
 5b00c4d5-aa8a-4e29-a645-67cc5fb884c9,xcii.watch,available,3.48,56.98,low,low,4,namecheap,,,
 5f5e0f1d-ca3b-42c7-a709-e6cf9c5096cb,valley.watch,available,4.99,,medium,low,6,name.com,,,
-225a2102-1169-44c5-ba17-212687b9fcb6,accessory.watch,available,4.99,56.99,high,low,9,name.com,,,
+225a2102-1169-44c5-ba17-212687b9fcb6,accessory.watch,available,5.99,44.49,medium,low,9,namesilo,,,21/09/2026 15:35
 d9819ec5-e158-4107-a031-09453e1dd1b4,afferent.watch,available,3.48,56.98,low,low,8,namecheap,,,
 a9a38d4b-5210-4210-bf44-6ea8f0baec4d,molecules.watch,available,4.99,,medium,low,9,name.com,,,
 4ac4f7be-6268-4a47-87f1-26439ff47aa7,highschool.watch,available,4.99,,high,low,10,name.com,,,
@@ -895,7 +896,7 @@ babf1e44-dad6-43c3-aae9-1fcc6f0712dc,incompanywith.watch,available,4.99,,medium,
 4775699c-ab06-4996-bf25-820a826b5722,etiologic.watch,available,3.48,56.98,low,low,9,namecheap,,,
 66bc761c-f1fd-48b3-b805-dcfa5a75253f,changes.watch,available,4.99,,medium,low,7,name.com,,,
 fcdfbee3-7ca5-4a43-a572-4bc8b2e5606b,awarding.watch,available,4.99,,high,low,8,name.com,,,
-dcfbf29a-89b3-47e3-aae8-a98c24797a0b,accepted.watch,available,4.99,56.99,high,low,8,name.com,,,
+dcfbf29a-89b3-47e3-aae8-a98c24797a0b,accepted.watch,available,5.99,44.49,medium,low,8,namesilo,,,21/09/2026 15:25
 96cbafec-5b45-4280-8c61-ac54bca2ede2,ane.watch,available,3.48,56.98,low,low,3,namecheap,,,
 152313ba-5936-473c-862e-a20cfc8db289,intro.watch,available,4.99,,high,low,5,name.com,,,
 6c3b4ce3-d953-4a52-a9be-1093cce06afd,blue.watch,available,,,high,high,4,,,,
@@ -917,7 +918,7 @@ d80a5b9b-a0dc-42dc-bfc0-d176be7d9871,giraffe.watch,available,,,high,low,7,,,,
 d9d84a9c-c915-4e2b-91e5-5c19319d9418,axile.watch,available,3.48,56.98,low,low,5,namecheap,,,08/08/2026 01:56
 8bcae7a1-2bfc-4066-bf71-f667344ed1ba,tails.watch,available,4.99,,high,low,5,name.com,,,
 4567c2f4-6c39-4107-a165-ffa5416ef685,barmy.watch,available,3.48,56.98,low,low,5,namecheap,,,06/08/2026 20:25
-c756ccc2-f83e-4426-afc4-9a80c7ce1335,affable.watch,available,4.99,56.99,high,low,7,name.com,,,
+c756ccc2-f83e-4426-afc4-9a80c7ce1335,affable.watch,available,3.48,56.98,medium,low,7,namecheap,,,21/09/2026 21:27
 727d2bff-bb39-4b69-af40-6044b58fc34e,steamengine.watch,available,4.99,,high,low,12,name.com,,,
 915b957f-9b9a-45ac-9d45-d737fc130821,findout.watch,available,4.99,,high,low,8,name.com,,,
 97e5998f-3356-4852-82c4-3c25b17d915e,antrorse.watch,available,3.48,56.98,low,low,8,namecheap,,,05/08/2026 20:21
@@ -962,12 +963,12 @@ bb4bd1e4-46e5-4e08-846b-439279e1450e,ataractic.watch,available,3.48,56.98,low,lo
 85ccd8c5-70bd-4a2b-8d04-5f04d892b9ec,suffer.watch,available,4.99,,medium,low,6,name.com,,,
 0caecf5e-9cb4-49ed-b60d-ff476fb1da0f,concealed.watch,available,4.99,56.99,medium,low,9,name.com,,,
 7e500536-8591-4b24-aec5-c44be4e61e3d,onthebrinkof.watch,available,4.99,,medium,low,15,name.com,,,
-7164d84e-cee9-4f29-b099-e8f6f18f9f5b,cleared.watch,available,4.99,56.99,high,low,7,name.com,,,
+7164d84e-cee9-4f29-b099-e8f6f18f9f5b,cleared.watch,available,5.99,44.49,medium,low,7,namesilo,,,21/09/2026 14:48
 1711bc90-7756-44b1-a7cf-ed2711211650,centesimal.watch,available,3.48,56.98,low,low,10,namecheap,,,
 97dba5ca-961b-40c7-a4b7-f410f84d83d0,penetration.watch,available,3.48,56.98,low,low,11,namecheap,,,08/09/2026 15:09
 2964b940-f246-4987-9474-693344505fe8,stuff.watch,available,4.99,,high,low,5,name.com,,,
-6e116fa2-edee-42a0-976a-1f3e44d67926,addictive.watch,available,4.99,56.99,high,low,9,name.com,,,
-af75fdf4-a92e-4732-9d14-777d330d844a,practiced.watch,available,4.99,56.99,high,low,9,name.com,,,
+6e116fa2-edee-42a0-976a-1f3e44d67926,addictive.watch,available,3.48,56.98,medium,low,9,namecheap,,,21/09/2026 17:08
+af75fdf4-a92e-4732-9d14-777d330d844a,practiced.watch,available,5.99,44.49,medium,low,9,namesilo,,,21/09/2026 17:21
 1bf11104-8e9c-45a8-bdd3-a360973324e0,dendroid.watch,available,3.48,56.98,low,low,8,namecheap,,,06/08/2026 13:50
 582e8fa6-9cce-4291-bc05-a82e30ed75fa,howoldareyou.watch,available,4.99,,medium,low,15,name.com,,,
 86806340-8097-4dbe-b112-a940290a3896,anestric.watch,available,3.48,56.98,low,low,8,namecheap,,,
@@ -998,4 +999,3 @@ dc04ee42-a140-41d3-a5a1-5d4a5fef69e0,oversee.watch,available,4.99,,high,low,7,na
 72d9285a-228b-4210-871f-7c3ed4e593b6,visiting.watch,available,4.99,,medium,low,8,name.com,,,
 8931b3f0-b69e-4eac-881f-c74a9167c285,maddened.watch,available,3.48,56.98,low,low,8,namecheap,,,
 6c89dcd3-44e8-4d42-9e89-203ada612593,asthesayinggoes.watch,available,4.99,,medium,low,18,name.com,,,
-cee0abe6-95cf-473a-b8d9-99aa92bd81dd,area.watch,available,4.99,,high,low,4,name.com,,,
