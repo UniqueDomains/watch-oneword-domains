@@ -1,10 +1,10 @@
-# Available .WATCH One-Word Domains (22,854)
+# Available .WATCH One-Word Domains (24,642)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C854%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C642%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .watch one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,854 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,642 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,854 domains · **Median ask:** $11.16 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 24,642 domains · **Median ask:** $11.21 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/watch`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | abm.watch     | available | $5.99     | $44.49        | high           | low    | 3      | namesilo                                                  |
 | fresh.watch   | resell    | $4.99     | —             | high           | medium | 5      | Sav.com, LLC                                              |
-| hey.watch     | premium   | $123.75   | —             | high           | medium | 3      | name.com                                                  |
-| ana.watch     | available | $4.99     | —             | high           | low    | 3      | name.com                                                  |
-| account.watch | resell    | $4.99     | —             | high           | low    | 7      | Spaceship, Inc.                                           |
 | his.watch     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| con.watch     | available | $4.99     | —             | high           | low    | 3      | name.com                                                  |
-| ask.watch     | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC                                             |
+| ana.watch     | available | $5.50     | —             | high           | low    | 3      | unstoppable                                               |
+| lonely.watch  | resell    | $4.99     | —             | high           | low    | 6      | name.com                                                  |
 | llp.watch     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| cpu.watch     | available | $5.99     | $44.49        | high           | low    | 3      | namesilo                                                  |
-| nas.watch     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
+| con.watch     | available | $5.50     | —             | high           | low    | 3      | unstoppable                                               |
+| account.watch | resell    | $4.99     | —             | high           | low    | 7      | Spaceship, Inc.                                           |
 | ngo.watch     | premium   | $512      | $512          | high           | low    | 3      | namesilo                                                  |
-| dew.watch     | available | $4.99     | —             | high           | low    | 3      | name.com                                                  |
-| nay.watch     | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                          |
+| cpu.watch     | available | $5.99     | $44.49        | high           | low    | 3      | namesilo                                                  |
+| ask.watch     | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC                                             |
 | anne.watch    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                                  |
 | ein.watch     | available | $3.48     | $56.98        | high           | low    | 3      | namecheap                                                 |
-| read.watch    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| nas.watch     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
 | jeff.watch    | premium   | $42.90    | $42.90        | high           | medium | 4      | namecheap                                                 |
 | fad.watch     | available | $3.48     | $56.98        | high           | low    | 3      | namecheap                                                 |
 | sell.watch    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| cooks.watch   | premium   | $66.50    | —             | medium         | low    | 5      | unstoppable                                               |
+| hay.watch     | available | $34.20    | $34.20        | high           | low    | 3      | cloudflare                                                |
+| soft.watch    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,854 live domains                        |
+| 1,000-row public sample | 24,642 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WATCH One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WATCH One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

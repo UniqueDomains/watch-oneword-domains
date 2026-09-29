@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 78e7c688-f44a-4bd5-b963-faf275dc2af8,unshadowed.watch,available,3.48,56.98,low,low,10,namecheap,,,12/09/2026 19:29
 8fa2e25b-c9fe-4526-8807-242ed4f96fca,arrears.watch,available,5.99,44.49,medium,low,7,namesilo,,,20/09/2026 08:55
 a9d6f95f-63ec-48de-9444-d7a5810b83d4,rarefy.watch,available,3.48,56.98,medium,low,6,namecheap,,,07/08/2026 15:31
+e8c994b2-afbc-48d3-9935-af2733a1cda4,emerson.watch,available,5.99,44.49,high,low,7,namesilo,,,29/09/2026 00:47
 b0fb257f-c448-4abe-beb2-bbcafaceb690,earthling.watch,available,3.48,56.98,high,low,9,namecheap,,,11/09/2026 10:43
 bafd15cf-4e62-45a4-b7f8-aa3b21da52b2,apery.watch,available,5.99,44.49,medium,low,5,namesilo,,,19/09/2026 16:43
 20df23e5-f91d-40be-88f7-cec252f1da12,tegular.watch,available,3.48,56.98,medium,low,7,namecheap,,,11/09/2026 10:16
@@ -23,12 +24,14 @@ c1bba720-da62-4d6e-9114-c249adc3724b,windward.watch,available,3.48,56.98,high,lo
 e5ed3a00-0f0e-4c94-81fc-575f0cca5799,sibilant.watch,available,3.48,56.98,medium,low,8,namecheap,,,12/08/2026 23:18
 c6eea261-64f2-4d89-8239-e8f3aadcf81c,groves.watch,available,4.99,,high,low,6,name.com,,,
 a4cd0c3d-d7e0-4eb2-aae5-749324ff6926,urges.watch,available,5.99,44.49,medium,low,5,namesilo,,,16/09/2026 09:15
-1289e41c-afe0-466b-8542-e03e43df46b6,fold.watch,available,4.99,,high,low,4,name.com,,,
+68178986-725f-426f-8750-b87d6ba48f0f,foods.watch,available,5.99,44.49,medium,low,5,namesilo,,,28/09/2026 22:58
+1289e41c-afe0-466b-8542-e03e43df46b6,fold.watch,available,2.79,35.39,high,low,4,spaceship,,,28/09/2026 14:00
 e9096420-65d6-4297-8ceb-e7917c2b2308,hormonal.watch,available,3.48,56.98,medium,low,8,namecheap,,,21/08/2026 14:02
 0d369ee9-772d-4674-a0b9-85769142e9d5,wilful.watch,available,3.48,56.98,medium,low,6,namecheap,,,18/08/2026 16:39
 d2b8b992-af80-456f-ad05-3aae541ecef2,overall.watch,available,3.48,56.98,high,low,7,namecheap,,,26/09/2026 03:25
 001d849d-386e-4a7f-bdef-75d111f49da6,roan.watch,available,3.48,56.98,high,low,4,namecheap,,,09/09/2026 18:08
 4a377043-4246-41ef-a661-10f25f184a14,condo.watch,available,4.99,,high,low,5,name.com,,,
+d487a947-202f-4bd0-8140-76af4c561482,lin.watch,available,3.48,56.98,high,low,3,namecheap,,,28/09/2026 10:15
 b0bf17f0-7ec2-4f77-8932-a89b613ec504,poriferous.watch,available,3.48,56.98,medium,low,10,namecheap,,,08/09/2026 23:59
 a24e94d1-9675-461a-96c6-225cc78c7e6b,coarse.watch,available,3.48,56.98,medium,low,6,namecheap,,,25/09/2026 09:05
 572fbf3b-262c-4e7e-bbcb-eac08c14ae00,hoagie.watch,available,3.48,56.98,high,low,6,namecheap,,,24/09/2026 20:04
@@ -41,6 +44,7 @@ ba62b0da-2fe5-47fe-b19c-f7c1764c9fea,spender.watch,available,3.48,56.98,high,low
 0b48a8e3-7022-45d9-96a6-49988dedfa5a,amnesic.watch,available,3.48,56.98,medium,low,7,namecheap,,,
 f2428650-744a-4fe1-b107-a23f1964c9ea,osseous.watch,available,3.48,56.98,medium,low,7,namecheap,,,04/09/2026 18:18
 a090c1e5-a48d-41aa-a180-461d1d72c55d,insisted.watch,available,5.99,44.49,medium,low,8,namesilo,,,27/09/2026 23:35
+d8f95d02-4aee-43ec-9689-4d644e73750d,styles.watch,available,5.99,44.49,high,low,6,namesilo,,,28/09/2026 22:23
 6cc96d83-78ef-416f-be75-94a357818e28,natives.watch,available,5.99,44.49,medium,low,7,namesilo,,,18/09/2026 01:41
 c37ac053-68cb-4f3a-b3cb-8c05b1389686,corrected.watch,available,5.99,44.49,high,low,9,namesilo,,,23/09/2026 23:45
 734490d9-3b80-4c2b-b676-96dd5dc108dc,gothic.watch,available,3.48,56.98,high,low,6,namecheap,,,20/08/2026 17:17
@@ -61,10 +65,13 @@ b7d52cdf-47a6-4956-8f42-31e6544b6d86,insidious.watch,available,3.48,56.98,medium
 0746a0fe-d75c-4643-937c-63b66bd97aa5,gutsy.watch,available,3.48,56.98,high,low,5,namecheap,,,20/08/2026 21:14
 748649ba-4e68-475a-8379-8a6481156944,rebuff.watch,available,3.48,56.98,medium,low,6,namecheap,,,10/09/2026 10:49
 dfc9cce4-97c8-418a-819d-c4472df666a3,slugs.watch,available,5.99,44.49,medium,low,5,namesilo,,,20/09/2026 08:54
+67f7f72b-6a92-4a39-a1f9-f1649f5add19,tags.watch,available,5.5,,low,low,4,unstoppable,,,28/09/2026 23:26
 17d59443-71a9-4fad-ab4d-59f9040cf0b8,riemann.watch,available,3.48,56.98,high,low,7,namecheap,,,23/09/2026 09:54
 2ee74076-74f5-4003-8f26-475c5d63ace5,inhabitant.watch,available,5.99,44.49,high,low,10,namesilo,,,24/09/2026 21:51
 6dfb6105-019a-4c1a-9b1e-c7069910dd35,cocky.watch,available,3.48,56.98,high,low,5,namecheap,,,12/08/2026 15:02
 72425a6a-4087-4d1b-be7a-25cc1e46e726,mentions.watch,available,3.48,56.98,medium,low,8,namecheap,,,17/09/2026 17:25
+1912492b-a342-4ab4-89a2-32711d7c8eb5,lublin.watch,available,2.79,35.39,medium,low,6,spaceship,,,28/09/2026 19:44
+fc1c9c97-88a8-49ed-9304-c418e53ec0b7,judson.watch,available,2.79,35.39,medium,low,6,spaceship,,,28/09/2026 12:13
 9929b73c-f4c2-461a-8203-7b5556d5cf6e,striped.watch,available,3.48,56.98,high,low,7,namecheap,,,10/09/2026 22:44
 3bb5a381-0940-4f26-87de-9af4088f37d4,palmer.watch,available,5.99,44.49,high,low,6,namesilo,,,20/09/2026 08:18
 97f604f9-81b0-49f0-b7b6-126591706386,makomako.watch,available,5.99,44.49,medium,low,8,namesilo,,,20/09/2026 05:57
@@ -99,6 +106,7 @@ b95eb980-c8cd-4901-8d8b-6045595ffeb9,camisole.watch,available,5.99,44.49,high,lo
 0f5a4767-1af9-4948-9fd9-29ac58c49932,naval.watch,available,3.48,56.98,high,low,5,namecheap,,,03/09/2026 14:07
 23f725bc-0a40-4ab6-a2fc-480d04e4ca88,orthodox.watch,available,3.48,56.98,high,low,8,namecheap,,,14/08/2026 22:55
 c95d050d-9386-4194-8ec9-b999a582687e,rabbits.watch,available,3.48,56.98,medium,low,7,namecheap,,,28/09/2026 05:05
+64fe4fd9-bdb2-4533-975e-f8624bcf6e7f,janitor.watch,available,2.79,35.39,medium,low,7,spaceship,,,28/09/2026 19:32
 dfaa5510-1af8-4b7c-be03-dffda6b0ca36,omdurman.watch,available,5.99,44.49,medium,low,8,namesilo,,,22/09/2026 15:32
 22c428f1-e071-4f8f-9fe4-b44b875f3d0b,awing.watch,available,3.48,56.98,medium,low,5,namecheap,,,08/08/2026 00:34
 127c5f0c-2b90-4765-afe5-9b5e968b67e8,lashing.watch,available,3.48,56.98,medium,low,7,namecheap,,,22/08/2026 20:10
@@ -110,11 +118,13 @@ e3d76e44-ddba-464e-aaf9-29ef6dabe99d,busybodied.watch,available,3.48,56.98,mediu
 272d6347-34c4-48fc-9e6c-47f29a515278,granted.watch,available,5.99,44.49,high,low,7,namesilo,,,24/09/2026 22:19
 16de8fe0-1c5a-47a5-98b7-6e22d96af4a6,conjoint.watch,available,3.48,56.98,medium,low,8,namecheap,,,12/08/2026 22:05
 752371b7-a0f8-46aa-9ba8-52a057fced29,idyll.watch,available,3.48,56.98,high,low,5,namecheap,,,08/09/2026 10:11
+cb5afd46-844d-4bf1-be78-1ba1ce71a4ac,genetics.watch,available,3,36.6,high,low,8,dynadot,,,28/09/2026 19:19
 ac2b0b93-e6a4-46b8-8c95-ea845420e9de,coxa.watch,available,5.99,44.49,high,low,4,namesilo,,,20/09/2026 11:23
 d076d731-c46e-435e-b5af-c22b42e196ec,oklahoman.watch,available,5.99,44.49,medium,low,9,namesilo,,,16/09/2026 05:05
 64dce63e-d3e5-441d-951c-bc07d7063ca3,divorced.watch,available,3.48,56.98,medium,low,8,namecheap,,,14/08/2026 14:01
 bbdb1939-5d8c-4713-9dfb-0ec2eed6d261,qualify.watch,available,2.79,35.39,high,low,7,spaceship,,,28/09/2026 06:57
 b81d7d7f-9fde-4775-bd97-e87ff310a49b,roiling.watch,available,3.48,56.98,medium,low,7,namecheap,,,09/09/2026 18:16
+18c41a3a-2f2d-4cb7-885e-d9c7ca3d75b5,conceived.watch,available,5.99,44.49,medium,low,9,namesilo,,,28/09/2026 22:54
 4a2bbf3c-e13f-4e6d-89f8-37c6af6b8b55,banner.watch,available,3.48,56.98,high,low,6,namecheap,,,08/08/2026 13:53
 d20b4023-fccb-40dd-8244-370ef29c0c2e,barbara.watch,premium,85.8,85.8,high,low,7,namecheap,,,25/09/2026 11:55
 98a61dfb-cf91-42df-900f-66015c5c8c15,graphic.watch,available,3.48,56.98,high,low,7,namecheap,,,28/09/2026 05:58
@@ -126,9 +136,11 @@ d20b4023-fccb-40dd-8244-370ef29c0c2e,barbara.watch,premium,85.8,85.8,high,low,7,
 05357738-1f24-40b7-bd0b-9bd68572a7d0,mgm.watch,available,5.99,44.49,high,low,3,namesilo,,,25/09/2026 13:30
 cdb7090e-e6ca-49b7-860c-7c9b73191e9f,bracing.watch,available,3.48,56.98,high,low,7,namecheap,,,11/08/2026 00:30
 06806f74-9208-42bd-8c0a-4d2d45b703c1,eastward.watch,available,3.48,56.98,high,low,8,namecheap,,,14/08/2026 22:48
+28abd94f-0f59-47a4-a323-61d6520222b3,generosity.watch,available,5.5,,high,low,10,unstoppable,,,29/09/2026 01:04
 4f4e1214-daf1-408e-a351-6e5be03eaeb3,fear.watch,available,5.99,44.49,high,low,4,namesilo,,,24/09/2026 12:06
 314828d1-2376-4ea8-9c1d-b1648ac08f20,airbrake.watch,available,5.99,44.49,medium,low,8,namesilo,,,17/09/2026 22:58
 87c05aa9-6edd-4830-b624-fd140392dc58,hunters.watch,available,2.79,35.39,medium,low,7,spaceship,,,28/09/2026 08:39
+55bd6b8c-b577-4099-a7cb-668e4fd8afaa,graz.watch,available,5.99,44.49,medium,low,4,namesilo,,,29/09/2026 01:07
 ea2cd769-51bf-4fdd-b4c6-5bea8176226a,ramirez.watch,available,34.2,34.2,medium,low,7,cloudflare,,,28/09/2026 08:04
 a472469a-1566-4ef7-a160-558596cb6ba0,panther.watch,available,,,high,low,7,,,,
 2bb86b98-b42b-4c26-9ef5-40c830b7c0d4,voyage.watch,premium,512,512,high,low,6,namesilo,,,28/09/2026 02:51
@@ -145,6 +157,7 @@ d7c546b8-d68e-41d1-aa3f-54d8cef547cd,baluster.watch,available,5.99,44.49,medium,
 fdf624be-80e8-40ae-acc0-60ff5aeea5b1,albizia.watch,available,5.99,44.49,high,low,7,namesilo,,,18/09/2026 03:01
 1822c579-103e-4888-ab10-fe017691ec50,tantalize.watch,available,3.48,56.98,medium,low,9,namecheap,,,21/09/2026 19:52
 adbb3943-98b0-4379-b5c4-8a0f381ebefe,unipolar.watch,available,3.48,56.98,medium,low,8,namecheap,,,12/09/2026 13:46
+9ab506d6-1522-43e1-8833-456b49669b98,lent.watch,available,2.79,35.39,high,low,4,spaceship,,,28/09/2026 14:42
 6608024b-5fb5-448c-acde-4fba8f730f01,pertinence.watch,available,5.99,44.49,medium,low,10,namesilo,,,19/09/2026 21:52
 ce843ed1-aee6-44a7-a440-4d9ad5f41149,orchestrated.watch,available,5.99,44.49,high,low,12,namesilo,,,16/09/2026 23:12
 b1659f6b-e209-4e5b-a651-ab537b84f2f0,furnished.watch,available,3.48,56.98,high,low,9,namecheap,,,18/08/2026 18:50
@@ -160,9 +173,13 @@ bd957089-fbb1-482d-b1a5-47b5be1ebd0a,brainwaves.watch,available,5.99,44.49,mediu
 f4f545fb-d022-4b7a-97fb-1e53076dcd6f,quat.watch,available,5.99,44.49,medium,low,4,namesilo,,,17/09/2026 15:25
 6631aab6-7041-4f4e-9865-bf126544d3f9,diary.watch,available,5.99,44.49,high,low,5,namesilo,,,24/09/2026 22:13
 9ea75456-8f41-4f41-b384-bedddb3b6791,blackburn.watch,available,5.99,44.49,high,low,9,namesilo,,,24/09/2026 02:11
+00b1ca19-4ee2-4f70-8a5b-8c18e9c887db,parrish.watch,available,5.5,,medium,low,7,unstoppable,,,28/09/2026 14:51
 76b3a2b7-adb4-4102-8354-2ca9a586e05c,gems.watch,available,5.99,44.49,high,low,4,namesilo,,,19/09/2026 19:45
+6926c7a2-10aa-4ec7-b4b9-5ea1bfbfd293,parish.watch,available,3,36.6,medium,low,6,dynadot,,,28/09/2026 20:07
 235fd72e-09a9-4a39-ae4f-3400638ca869,piping.watch,available,3.48,56.98,medium,low,6,namecheap,,,10/09/2026 19:43
+e523bef5-7794-46bb-890a-2595cb9a04da,critics.watch,available,34.2,34.2,low,low,7,cloudflare,,,28/09/2026 18:02
 066e6370-1769-4449-a155-0438c40a4369,selfaware.watch,available,3.48,56.98,medium,low,10,namecheap,,,10/09/2026 02:00
+8c6535e1-ed84-456a-b69d-b69a5fe9d415,senators.watch,available,5.99,44.49,low,low,8,namesilo,,,29/09/2026 05:32
 86ec7607-aa38-46df-b8f3-90dc44c97483,ascribe.watch,available,5.99,44.49,high,low,7,namesilo,,,21/09/2026 02:19
 d9bdfc5c-d887-46cb-8809-270a26a2002e,unshaped.watch,available,3.48,56.98,medium,low,8,namecheap,,,12/09/2026 19:31
 bafa9d74-75c5-47c7-b8f4-ebb03c157491,auriga.watch,available,5.99,44.49,medium,low,6,namesilo,,,21/09/2026 04:24
@@ -179,10 +196,12 @@ e92ee285-5784-42bd-9aed-5cd0d94e7609,coalesced.watch,available,3.48,56.98,medium
 84f4aeba-92b7-49c9-9f04-36a37d875a32,collected.watch,available,3.48,56.98,high,low,9,namecheap,,,12/08/2026 17:00
 e6067f2c-0873-4808-8d55-23c01632c626,arbor.watch,available,5.99,44.49,high,low,5,namesilo,,,20/09/2026 00:48
 e9b73507-ae11-440d-9b07-177b1f2d3863,griffith.watch,available,5.99,44.49,medium,low,8,namesilo,,,25/09/2026 04:33
+6a460d61-6ab8-4074-9503-f85f44c27e89,wuhan.watch,premium,,,medium,low,5,,,,29/09/2026 02:39
 22a35273-0ba2-4de2-8993-463aff074e2e,costate.watch,available,3.48,56.98,medium,low,7,namecheap,,,13/08/2026 03:06
 ee9e4e46-70e3-4e40-85c1-4ae85632d4dd,buildings.watch,available,5.99,44.49,medium,low,9,namesilo,,,27/09/2026 09:32
 eaf2602c-f54d-485b-b0b1-3808683a8696,palladian.watch,available,3.48,56.98,medium,low,9,namecheap,,,04/09/2026 23:44
 121c376a-4979-4394-9370-e02e500fd2b9,snapping.watch,available,4.99,,high,low,8,name.com,,,
+65ec1eaf-f4a7-4686-ab0d-53e2a0de8849,adapt.watch,available,5.99,44.49,high,low,5,namesilo,,,28/09/2026 11:08
 4f3ab646-e1ca-414e-8969-27bccfc7c74a,watchfully.watch,available,5.99,44.49,high,low,10,namesilo,,,16/09/2026 10:58
 48bb4e2a-167b-4be8-9f30-2e9f09b7b54a,profess.watch,available,4.99,,high,low,7,name.com,,,
 245c3c58-0584-460d-b4b0-0447c885cce5,colourize.watch,available,3.48,56.98,medium,low,9,namecheap,,,12/08/2026 17:40
@@ -210,6 +229,7 @@ ba35b16a-8711-463b-961d-d2124e0192a4,expository.watch,available,3.48,56.98,mediu
 868484d7-c89f-4b24-a5cb-b67c33c5cdf3,ixl.watch,available,3.48,56.98,medium,low,3,namecheap,,,
 f2103b6f-8f64-4086-ae6c-d5c8f9958c72,tinned.watch,available,3.48,56.98,medium,low,6,namecheap,,,11/09/2026 16:17
 05c0768c-e3eb-4388-a8d9-b02fa027304c,marquette.watch,available,5.99,44.49,high,low,9,namesilo,,,25/09/2026 07:53
+748294c4-3574-4ed7-b043-a6f6d8e8bb1c,encouragement.watch,available,5.99,44.49,medium,low,13,namesilo,,,28/09/2026 22:35
 efa40b04-2539-4012-8947-b7c85da5ff74,mccoy.watch,available,3,36.6,high,low,5,dynadot,,,27/09/2026 21:17
 9b855ddf-02a0-4237-b913-4db4bb81b1ca,legibly.watch,available,3.48,56.98,medium,low,7,namecheap,,,14/09/2026 11:06
 3b250728-8803-47bf-8dc0-cb37fef0e4d6,oks.watch,available,5.99,44.49,medium,low,3,namesilo,,,21/09/2026 06:13
@@ -222,6 +242,7 @@ d96d9184-1091-4749-9af9-ac59b8ac5622,audiometer.watch,available,5.99,44.49,mediu
 381d191b-96f5-4d52-9f2c-e3f8c8685337,sharks.watch,available,3,36.6,medium,low,6,dynadot,,,27/09/2026 23:50
 da88d8ad-be63-49fd-86e8-66829ad15b06,acute.watch,available,5.99,44.49,high,low,5,namesilo,,,21/09/2026 16:39
 99b8c658-5fa8-4e86-a9aa-e6cc10ec0d51,introduce.watch,available,4.99,,high,low,9,name.com,,,
+fb31e9a6-f7da-4704-80b0-dc53ea8c2c0b,whittaker.watch,available,2.79,35.39,medium,low,9,spaceship,,,28/09/2026 16:41
 5fa9ed48-c458-449a-9cbe-28e2d6bdc6fc,requisite.watch,available,3.48,56.98,high,low,9,namecheap,,,17/08/2026 13:21
 28ca71e5-4f46-4f3b-8cd0-1bee7fc4f801,geniality.watch,available,5.99,44.49,high,low,9,namesilo,,,17/09/2026 14:00
 801eabc0-95d3-4890-a91e-93cf22f71da6,joyfully.watch,available,3.48,56.98,high,low,8,namecheap,,,14/09/2026 21:32
@@ -235,6 +256,7 @@ b2b9d0b7-e408-47a9-8178-59270ec642b6,sizzling.watch,resell,,,high,low,8,"GoDaddy
 2b36ddfc-12fd-4ed6-bc8c-b433e7cc3ab2,gladiola.watch,available,3.48,56.98,medium,low,8,namecheap,,,19/08/2026 00:09
 b0c6daf6-523b-401f-b0f2-c876e4cbb75b,reddish.watch,available,3.48,56.98,high,low,7,namecheap,,,19/09/2026 03:49
 071a28a7-185b-4246-9f75-0c5f3912e375,overlook.watch,available,4.99,,high,low,8,name.com,,,
+21db0000-b111-47b3-b952-5f76a9455a21,torino.watch,available,34.2,34.2,high,low,6,cloudflare,,,29/09/2026 02:19
 f7f5a2c8-af60-4ef7-8693-c964d47b8861,aesculus.watch,available,5.99,44.49,medium,low,8,namesilo,,,17/09/2026 13:22
 452a9e2d-596d-473f-824b-5c677961a6bb,ducks.watch,available,5.99,44.49,medium,low,5,namesilo,,,27/09/2026 23:17
 658248c1-df61-4c6a-8d7b-cd88cdb4e47e,anopheles.watch,available,5.99,44.49,medium,low,9,namesilo,,,19/09/2026 11:39
@@ -244,13 +266,13 @@ d492d6ab-68ac-4f51-861f-9dbd555a199a,visited.watch,available,4.99,,high,low,7,na
 f274e680-83c5-4b44-974e-02d02562e8b5,grumbler.watch,available,5.99,44.49,medium,low,8,namesilo,,,23/09/2026 06:49
 2848b9e6-8a6e-43ef-9a0b-c5764063e914,achira.watch,available,3.48,56.98,medium,low,6,namecheap,,,17/09/2026 00:42
 5307d2ad-b70f-4a9d-a5eb-1df9b302b22b,armed.watch,available,3.48,56.98,high,low,5,namecheap,,,22/09/2026 07:55
-d1464ebd-5e12-453c-8b0a-14d2eb081d61,brook.watch,available,4.99,,high,low,5,name.com,,,
+d1464ebd-5e12-453c-8b0a-14d2eb081d61,brook.watch,available,34.2,34.2,high,low,5,cloudflare,,,29/09/2026 04:32
 25a9aa01-c632-4517-b791-e7d0923e5aa1,incoming.watch,available,3.48,56.98,high,low,8,namecheap,,,22/08/2026 01:44
 6ede9c14-931b-406f-9451-82f5ad755726,algometric.watch,available,3.48,56.98,medium,low,10,namecheap,,,
 72ab530b-d7b7-4202-a2d4-ec0221b5886f,eudaimonia.watch,available,3.48,56.98,high,low,10,namecheap,,,12/09/2026 23:00
 a31dc28e-3b52-4b9b-a191-ff4e872adf3f,gail.watch,available,4.99,,high,low,4,name.com,,,
 f2c79bbb-8636-4bc6-9201-9495d6b42ccf,trickily.watch,available,3.48,56.98,low,low,8,namecheap,,,14/09/2026 09:11
-12551b67-5942-45ee-b4a6-0da273072102,existence.watch,available,4.99,,high,low,9,name.com,,,
+12551b67-5942-45ee-b4a6-0da273072102,existence.watch,available,5.5,,high,low,9,unstoppable,,,28/09/2026 10:53
 9fff7d17-a90e-4d58-aebd-fa4fd807f1f5,referable.watch,available,3.48,56.98,medium,low,9,namecheap,,,07/08/2026 01:28
 9e0d0a9a-c652-42cd-bd35-c2c188616b0b,corned.watch,available,3.48,56.98,medium,low,6,namecheap,,,13/08/2026 01:33
 969da9c3-9ab6-4b9e-b01c-009539ac79bb,aditi.watch,available,5.99,44.49,medium,low,5,namesilo,,,17/09/2026 08:22
@@ -261,11 +283,13 @@ a4fc50c8-8ce5-46fa-b979-483e4af8ac13,puppet.watch,available,5.99,44.49,high,low,
 f291b4b5-307a-4fd9-bce0-dcca0debeac9,cornflower.watch,available,5.99,44.49,high,low,10,namesilo,,,21/09/2026 14:08
 dffd4604-4b7e-438c-a6dc-d9a3da9fef50,barbecues.watch,available,5.99,44.49,medium,low,9,namesilo,,,21/09/2026 08:34
 1efef066-308f-478a-a1b9-b308c903e83a,snarl.watch,available,3.48,56.98,medium,low,5,namecheap,,,24/08/2026 16:56
+2750d324-e021-49d7-9a1a-6c16d5aa532b,escapes.watch,available,5.99,44.49,medium,low,7,namesilo,,,29/09/2026 05:18
 1861e3a9-cec1-4cd3-9c3c-0614c716b283,flustered.watch,available,3.48,56.98,medium,low,9,namecheap,,,18/08/2026 09:29
 465a8d5c-e7cd-4064-89cb-2b8ec3785f09,rehearsal.watch,available,5.99,44.49,high,low,9,namesilo,,,27/09/2026 03:47
 f2562e68-540c-4f3a-a05e-863b94112d6c,male.watch,available,5.99,44.49,high,low,4,namesilo,,,25/09/2026 16:34
 bb121ce6-7edd-4ae4-af4c-3f271a47a6c8,okeh.watch,available,3.48,56.98,high,low,4,namecheap,,,03/09/2026 23:21
 36952bd9-099b-44a8-ba4e-7ff2159f40d9,unjust.watch,available,3.48,56.98,medium,low,6,namecheap,,,22/08/2026 03:49
+6ae568dc-9c87-4911-8a71-4dde7a81d818,ruins.watch,available,3,36.6,low,low,5,dynadot,,,28/09/2026 12:46
 fd4b4c8a-9b40-4cc7-ac0b-64fc154bbc74,viewable.watch,available,3.48,56.98,high,low,8,namecheap,,,13/09/2026 05:37
 03a00d91-077c-45c6-827f-75d8d9ec6e95,aurelius.watch,available,5.99,44.49,medium,low,8,namesilo,,,19/09/2026 15:35
 ac1b5408-915c-4c72-8de5-826bed1ae095,angelfish.watch,available,3.48,56.98,high,low,9,namecheap,,,19/09/2026 05:56
@@ -302,6 +326,7 @@ f6575407-c143-4f75-81ba-6419c7994e27,botchy.watch,available,3.48,56.98,medium,lo
 dcd0bf0b-8a99-4ecd-8fbf-3a0b6134951f,beetling.watch,available,3.48,56.98,medium,low,8,namecheap,,,09/08/2026 08:22
 04ed24db-cd43-44ec-b5f4-1b6bbee00941,ein.watch,available,3.48,56.98,high,low,3,namecheap,,,26/09/2026 03:08
 89dd685a-1e5d-446d-b2fd-b1620909a802,logy.watch,available,3.48,56.98,medium,low,4,namecheap,,,18/08/2026 09:55
+09169a1a-78ba-479a-b237-503bbcfe6348,osman.watch,available,2.79,35.39,medium,low,5,spaceship,,,28/09/2026 22:06
 f88dc1a2-a985-4846-8d67-4570ecf29576,auditory.watch,available,4.99,56.99,high,low,8,name.com,,,22/09/2026 12:39
 dbfd225f-8ac5-4e9f-abaa-41d248cfbc38,balder.watch,available,3.48,56.98,medium,low,6,namecheap,,,21/09/2026 21:33
 16365786-fc72-478a-8545-4d69913b509a,playacting.watch,available,3.48,56.98,medium,low,10,namecheap,,,
@@ -329,7 +354,7 @@ b421b133-c17e-4622-9831-6e5030246888,angle.watch,available,5.99,44.49,high,low,5
 38d48a5d-94aa-4cd3-998e-d14df83f390c,biometry.watch,available,3.48,56.98,high,low,8,namecheap,,,23/09/2026 18:35
 091fb575-77f9-4a30-862f-5ea51606c1ce,stealthily.watch,available,5.99,44.49,medium,low,10,namesilo,,,16/09/2026 06:59
 963de00e-dcd7-493b-8b18-305b76aadf82,corsican.watch,available,3.48,56.98,high,low,8,namecheap,,,13/08/2026 02:33
-ef8a8a1a-1d80-4e4e-b7aa-6780e7942357,allergy.watch,available,4.99,,high,low,7,name.com,,,
+ef8a8a1a-1d80-4e4e-b7aa-6780e7942357,allergy.watch,available,3.48,56.98,high,low,7,namecheap,,,28/09/2026 20:29
 010e501f-5ba6-4c20-99b0-2b9311666aef,countries.watch,available,4.99,,medium,low,9,name.com,,,
 989f434f-b326-47c3-9e2b-4b9dac99db19,softness.watch,available,5.99,44.49,high,low,8,namesilo,,,21/09/2026 23:37
 273b9aac-4f0a-4710-a2a0-a0b1eda065c0,retraction.watch,available,4.99,56.99,medium,low,10,name.com,,,16/09/2026 15:59
@@ -353,6 +378,7 @@ d7a9e97b-5ce6-4ee5-a1ed-0e7bb38ee01e,swerve.watch,available,5.99,44.49,high,low,
 7f954cb0-7dde-42b1-a458-d36968754f52,saintly.watch,available,3.48,56.98,high,low,7,namecheap,,,
 40212e01-20f3-4ce8-8ad1-be22d3901989,loneliness.watch,available,5.99,44.49,high,low,10,namesilo,,,18/09/2026 13:13
 3c1391a2-e668-4d52-a9a3-479b41bbb7d5,indecent.watch,available,5.99,44.49,medium,low,8,namesilo,,,25/09/2026 09:06
+e2a2f0c0-dd0e-4c72-a48e-9e08ee0accba,resemble.watch,available,2.79,35.39,high,low,8,spaceship,,,28/09/2026 20:53
 6cbb4633-5300-4f57-a100-bac0674a1f06,tastily.watch,available,5.99,44.49,medium,low,7,namesilo,,,16/09/2026 08:03
 db5bdfa7-20d3-4c13-87da-d1a72ed196f3,hep.watch,available,3.48,56.98,high,low,3,namecheap,,,21/08/2026 06:44
 60fa2466-1187-44fe-9c98-a424e0965b97,amblyopia.watch,available,5.99,44.49,medium,low,9,namesilo,,,18/09/2026 17:11
@@ -360,13 +386,14 @@ db5bdfa7-20d3-4c13-87da-d1a72ed196f3,hep.watch,available,3.48,56.98,high,low,3,n
 e15866fc-9951-4af8-9ac0-a4be55eeb9e6,arouse.watch,available,3.48,56.98,high,low,6,namecheap,,,24/09/2026 08:22
 0ea47eaf-4d5b-4b0a-b7d0-b88fcee6f2f2,refunds.watch,available,5.99,44.49,medium,low,7,namesilo,,,20/09/2026 14:13
 0373a849-504e-483d-8baf-9f81c395c663,famished.watch,available,3.48,56.98,medium,low,8,namecheap,,,17/08/2026 13:41
+58198350-13d0-4c6b-a1a8-ab39f80ae478,crabs.watch,available,5.99,44.49,high,low,5,namesilo,,,29/09/2026 00:30
 82be8fc8-b082-48bc-9bac-f0faeb8713b1,chuck.watch,available,3.48,56.98,high,low,5,namecheap,,,08/09/2026 10:16
 8427bd84-d155-412e-b839-896a3d570101,ambiance.watch,available,5.99,44.49,high,low,8,namesilo,,,18/09/2026 16:40
 f6ccec36-1c6d-41a5-b953-8d340771282f,vocational.watch,available,3.48,56.98,high,low,10,namecheap,,,13/09/2026 06:29
 ba8aa617-b2de-4c60-9113-9cbce9658407,calcium.watch,available,3.48,56.98,high,low,7,namecheap,,,20/09/2026 22:32
 f7ab3d1f-5f57-4da4-b640-fbc486cf896b,encyclical.watch,available,3.48,56.98,medium,low,10,namecheap,,,17/08/2026 00:42
 5be45f78-b11a-497f-b3ee-2ae7bc1f3721,venter.watch,available,3.48,56.98,medium,low,6,namecheap,,,16/09/2026 14:46
-ebc3738d-a9af-4410-8e9c-4907a3734e22,ana.watch,available,4.99,,high,low,3,name.com,,,
+ebc3738d-a9af-4410-8e9c-4907a3734e22,ana.watch,available,5.5,,high,low,3,unstoppable,,,28/09/2026 21:04
 cc8d9127-3027-4466-8dec-3a1ad6e6eba7,abettal.watch,available,3.48,56.98,medium,low,7,namecheap,,,16/09/2026 15:18
 f5e726ef-6e78-4e66-8f41-a7655c8e210c,panipat.watch,available,5.99,44.49,medium,low,7,namesilo,,,22/09/2026 15:36
 1e8685bf-0cc5-44d6-8316-562724334cfe,animated.watch,available,5.99,44.49,high,low,8,namesilo,,,22/09/2026 05:00
@@ -383,6 +410,7 @@ fbfead18-62a3-4d1b-96f0-aacdc0f0b198,mediate.watch,available,3.48,56.98,high,low
 4df6205f-49d6-4f2f-a9dc-bba474ebbf32,actionable.watch,available,5.99,44.49,high,low,10,namesilo,,,21/09/2026 16:28
 6435c8c1-530d-463e-b415-1998720ed287,diamonds.watch,premium,500,,high,low,8,name.com,,,
 9ce31754-8b10-4ed4-ad22-20b57e5e0928,capped.watch,available,3.48,56.98,medium,low,6,namecheap,,,11/08/2026 18:02
+550fb63c-daa0-4e8f-adf3-47c0f2680c97,cooks.watch,premium,66.5,,medium,low,5,unstoppable,,,29/09/2026 04:38
 4ec0650d-ce32-4ab7-9613-89aa1ea9d89c,informs.watch,available,5.99,44.49,medium,low,7,namesilo,,,20/09/2026 13:37
 423f665f-a803-480e-b889-ccccf99c2fbe,superb.watch,available,3.48,56.98,high,low,6,namecheap,,,23/09/2026 09:28
 6599d19c-9952-47cc-9ecf-871aad7d1d96,indigent.watch,available,3.48,56.98,medium,low,8,namecheap,,,14/08/2026 04:34
@@ -391,14 +419,16 @@ fbfead18-62a3-4d1b-96f0-aacdc0f0b198,mediate.watch,available,3.48,56.98,high,low
 74ce62a3-6e96-4190-b76f-f0fece9fcd93,lindsay.watch,available,4.99,,high,low,7,name.com,,,
 50ad747c-6127-47c5-8e24-539df2dc369b,ngo.watch,premium,512,512,high,low,3,namesilo,,,27/09/2026 04:51
 2ca9f63f-affb-45ec-a8ff-20c1665e2e7f,upfront.watch,available,3.48,56.98,high,low,7,namecheap,,,12/09/2026 23:09
-43e47268-7f86-4dcf-9d97-dd348cd81e35,lonely.watch,available,4.99,,high,low,6,name.com,,,
+43e47268-7f86-4dcf-9d97-dd348cd81e35,lonely.watch,resell,4.99,,high,low,6,name.com,,,28/09/2026 09:45
 f5f73a1f-fbd6-4475-b0a1-dbc08361b324,divorcing.watch,available,5.99,44.49,low,low,9,namesilo,,,17/09/2026 22:37
 02e011da-7d20-498a-b4b7-04d92ff62589,jra.watch,available,3.48,56.98,medium,low,3,namecheap,,,19/09/2026 14:09
 d2b7d728-2007-4aff-a006-04f96ad066f4,scourge.watch,available,3.48,56.98,medium,low,7,namecheap,,,18/08/2026 06:16
+8f54ede3-e6c3-417c-a015-a3acf7f04a3b,parasite.watch,available,5.99,44.49,medium,low,8,namesilo,,,29/09/2026 01:47
 de370e89-bae9-422a-b39e-7dc8eb1a3ec0,venereal.watch,available,3.48,56.98,medium,low,8,namecheap,,,18/08/2026 21:42
 5a05b831-a99c-4530-91a4-9bec37dc9684,his.watch,premium,118.8,118.8,high,low,3,namesilo,,,
 155020cd-6858-4ff0-8449-d8abbd38d4fe,stripped.watch,available,3.48,56.98,medium,low,8,namecheap,,,10/09/2026 22:48
 b2c34329-4b03-4301-98a6-210d7a069cce,beerbohm.watch,available,5.99,44.49,medium,low,8,namesilo,,,23/09/2026 01:47
+93f82d63-52df-4a16-b13e-cc5dd98bd298,kidneys.watch,available,2.79,35.39,low,low,7,spaceship,,,29/09/2026 05:38
 6fb4172a-925e-403a-be51-371b9773edb0,requested.watch,available,3.48,56.98,high,low,9,namecheap,,,27/09/2026 12:02
 714b9102-3448-40b8-9f15-433b64f59525,abm.watch,available,5.99,44.49,high,low,3,namesilo,,,16/09/2026 16:15
 b63cd928-063f-48a1-98e0-5feb8f224d3a,claxon.watch,available,5.99,44.49,medium,low,6,namesilo,,,23/09/2026 01:29
@@ -410,12 +440,14 @@ a248e158-dd83-4dcf-991a-72eb2726788f,hitchcock.watch,resell,,,high,low,9,"GoDadd
 fbb8e086-ee53-4180-aab4-f90deb3d48cb,overgreedy.watch,available,3.48,56.98,medium,low,10,namecheap,,,04/09/2026 20:38
 76ce59e2-a3ad-4be5-bfbb-30b11ca0fb18,hooked.watch,available,5.99,44.49,high,low,6,namesilo,,,22/09/2026 07:30
 92ac4c69-05a3-4474-a3c1-2bdd79c4163b,glamorous.watch,available,3.48,56.98,high,low,9,namecheap,,,19/08/2026 00:15
+d7dd337b-9f66-44ef-9c55-4c96410c2552,endorsement.watch,available,2.79,35.39,high,low,11,spaceship,,,29/09/2026 04:49
 0aae7bae-d34e-4dbb-82e6-634a8847929f,sneezing.watch,available,4.99,,medium,low,8,name.com,,,
 7b5e2e5e-8a0b-4df5-a41c-29b441c5d657,serotonin.watch,available,5.99,44.49,high,low,9,namesilo,,,16/09/2026 12:37
 9f07a608-c53c-4d26-b6cd-e45243421d7f,aire.watch,available,5.99,44.49,high,low,4,namesilo,,,17/09/2026 23:06
 cdcda026-217e-40a1-86e3-060a1aaae4f4,blastoff.watch,available,5.99,44.49,high,low,8,namesilo,,,24/09/2026 04:43
 c167617f-f3ed-4bc1-8d4a-ebf4dd9af907,executable.watch,available,3.48,56.98,high,low,10,namecheap,,,17/08/2026 16:50
 c50457d5-3995-4560-9a33-7c2c05c5dbe8,octet.watch,available,3.48,56.98,high,low,5,namecheap,,,
+1049e248-c439-40b7-8a43-73a8da13b7fe,brookings.watch,available,5.99,44.49,medium,low,9,namesilo,,,28/09/2026 16:41
 1cb059b7-b2b5-463c-9ed7-efb1fb5f290a,bedfellow.watch,available,5.99,44.49,medium,low,9,namesilo,,,22/09/2026 23:14
 5fc70d13-cec7-48a9-ba8b-5433ab9698ab,slim.watch,available,34.2,34.2,high,low,4,cloudflare,,,27/09/2026 22:35
 00418bbb-2b4a-4116-874b-2da0107f0c9d,feeder.watch,available,5.99,44.49,high,low,6,namesilo,,,25/09/2026 09:57
@@ -435,11 +467,13 @@ c0c2d580-42e8-4151-9e98-573a40ea50b0,mixing.watch,available,4.99,,high,low,6,nam
 29b9b57c-245d-41ad-bf61-2de96013746b,robertson.watch,available,5.99,44.49,high,low,9,namesilo,,,25/09/2026 09:45
 007cfc92-d8f3-4ecd-b7aa-679b6e455e6c,artfulness.watch,available,5.99,44.49,high,low,10,namesilo,,,20/09/2026 10:34
 3ff2b276-b2ba-430d-b9fa-d48dea14a60e,kennelly.watch,available,3.48,56.98,medium,low,8,namecheap,,,16/09/2026 12:58
+1973580d-a1de-4a61-b9d4-0e1038a2ddb7,liability.watch,available,5.5,,medium,low,9,unstoppable,,,28/09/2026 09:46
 43851c7a-7a2e-4ef2-bbfa-21f28c00628b,tingle.watch,available,3.48,56.98,medium,low,6,namecheap,,,11/09/2026 16:11
 ee3ff68f-286e-42c9-bd2b-b9f337e0d0f4,undigested.watch,available,3.48,56.98,medium,low,10,namecheap,,,12/09/2026 08:01
-3769de6b-cd83-445b-a413-571ba4fd6435,offspring.watch,available,4.99,,high,low,9,name.com,,,
+3769de6b-cd83-445b-a413-571ba4fd6435,offspring.watch,available,5.5,,high,low,9,unstoppable,,,28/09/2026 11:24
 ba9ecf22-fed0-4602-8663-12b9aa526931,propulsion.watch,available,5.99,44.49,high,low,10,namesilo,,,17/09/2026 05:22
 8f945404-412b-466f-84e8-1e59a7bea2e9,fibre.watch,available,4.99,,high,low,5,name.com,,,
+101667cf-1485-4f36-8d0b-e5c2666192f9,swine.watch,available,34.2,34.2,high,low,5,cloudflare,,,29/09/2026 02:16
 8f856d44-010a-403c-9552-f657b920517a,diehards.watch,available,5.99,44.49,medium,low,8,namesilo,,,20/09/2026 23:29
 b7808a59-c7f2-435f-b137-ca9f88fa3d70,plaguey.watch,available,3.48,56.98,medium,low,7,namecheap,,,
 74bdfcf9-64cc-49c4-830b-8e317013caf2,runners.watch,available,5.99,44.49,high,low,7,namesilo,,,18/09/2026 06:01
@@ -455,7 +489,7 @@ bd97d677-fba7-437b-8d7b-679327dc653d,androgen.watch,available,5.99,44.49,medium,
 ea3a3155-fe4d-4c5b-80a3-3683e508719b,scared.watch,available,3.48,56.98,medium,low,6,namecheap,,,18/08/2026 15:38
 e37ab2e3-7fe2-430b-b261-9ca63228a0f6,flashily.watch,available,3.48,56.98,medium,low,8,namecheap,,,14/09/2026 18:54
 8c27e56d-09a9-4da9-8e75-49c38805487d,overwhelm.watch,available,4.99,,medium,low,9,name.com,,,
-378aab22-fbe7-4344-a0ea-942da1d84abe,con.watch,available,4.99,,high,low,3,name.com,,,
+378aab22-fbe7-4344-a0ea-942da1d84abe,con.watch,available,5.5,,high,low,3,unstoppable,,,28/09/2026 14:15
 b8582a46-b2bd-44fe-aeaa-968644042e2e,dampness.watch,available,4.99,56.99,medium,low,8,name.com,,,13/08/2026 16:45
 6835e1a0-aaad-4344-b843-f6af988faf73,myth.watch,available,3.48,56.98,high,low,4,namecheap,,,28/09/2026 02:27
 2c9b36b1-a5ef-4f11-ac37-1ea36dc69253,civilised.watch,available,3.48,56.98,high,low,9,namecheap,,,12/08/2026 09:08
@@ -473,7 +507,9 @@ dcbf222b-1262-4528-8915-86a95cca2158,madman.watch,available,3.48,56.98,high,low,
 999bd920-4f21-48dc-b2cb-499ef0b22fe2,apartments.watch,premium,128.7,128.7,medium,low,10,namecheap,,,19/09/2026 20:12
 a7da721b-1208-4665-ac6e-8ae70dcaafc9,birken.watch,available,3.48,56.98,medium,low,6,namecheap,,,10/08/2026 06:03
 3dc4f355-74dc-495c-9358-7e29ec09bfe6,shoddy.watch,available,3.48,56.98,medium,low,6,namecheap,,,12/08/2026 03:27
-998ac057-c9d2-460f-8831-7c5fa3cbf596,carriage.watch,available,4.99,,high,low,8,name.com,,,
+8ba85b5c-eadc-49a1-88af-24498c63f03c,milwaukee.watch,premium,78.54,78.54,high,low,9,namesilo,,,29/09/2026 01:40
+998ac057-c9d2-460f-8831-7c5fa3cbf596,carriage.watch,available,5.99,44.49,high,low,8,namesilo,,,29/09/2026 00:08
+cf08bae9-eaa0-493c-bc39-9451bc9910b1,sewing.watch,available,3.48,56.98,high,low,6,namecheap,,,28/09/2026 10:54
 57a48148-c069-4b1a-95d8-cc2557b65ebb,argent.watch,available,3.48,56.98,high,low,6,namecheap,,,06/08/2026 17:51
 4851e77c-8fab-4d8c-98d9-6c28202473dd,longways.watch,available,3.48,56.98,medium,low,8,namecheap,,,22/08/2026 23:44
 4212b279-ebf2-4e59-a1be-891ac8876da7,bayard.watch,available,3.48,56.98,medium,low,6,namecheap,,,22/09/2026 17:54
@@ -481,11 +517,11 @@ a7da721b-1208-4665-ac6e-8ae70dcaafc9,birken.watch,available,3.48,56.98,medium,lo
 f8764281-59ac-485c-81a1-9858ef9a67b9,spinoza.watch,available,5.99,44.49,high,low,7,namesilo,,,22/09/2026 09:34
 62838cf0-ce0b-4e74-a5cc-3de62cab2f5c,accelerator.watch,available,5.99,44.49,high,low,11,namesilo,,,28/09/2026 02:37
 54141844-9211-4f54-8a22-a185e06af9e2,alarmed.watch,available,3.48,56.98,medium,low,7,namecheap,,,
-18fea223-9a82-455a-9e4a-5f107c8cd58b,traded.watch,available,5.99,44.49,medium,low,6,namesilo,,,25/09/2026 20:44
+18fea223-9a82-455a-9e4a-5f107c8cd58b,traded.watch,available,3,36.6,medium,low,6,dynadot,,,29/09/2026 04:46
 928007a6-f8cb-406b-82ac-a774de09d708,vixenish.watch,available,3.48,56.98,medium,low,8,namecheap,,,13/09/2026 06:24
 30c099b5-eab9-4d7d-9802-f0e640b375de,beside.watch,available,4.99,,high,low,6,name.com,,,
-088c3cae-731f-4eab-ad3b-d8d3a43b6f9c,carefully.watch,available,4.99,,high,low,9,name.com,,,
-37bd37a9-6d67-4793-aab4-c27469dc56ff,therefore.watch,available,4.99,,high,low,9,name.com,,,
+088c3cae-731f-4eab-ad3b-d8d3a43b6f9c,carefully.watch,available,3.48,56.98,medium,low,9,namecheap,,,28/09/2026 13:46
+37bd37a9-6d67-4793-aab4-c27469dc56ff,therefore.watch,available,2.79,35.39,medium,low,9,spaceship,,,28/09/2026 15:07
 6ec1e176-e8d0-4d5f-89b4-63398c7536c4,recognise.watch,available,34.2,34.2,high,low,9,cloudflare,,,28/09/2026 06:55
 aaed203c-b591-421e-a0aa-f77c37995fdd,empathic.watch,available,3.48,56.98,high,low,8,namecheap,,,16/08/2026 16:41
 415dcc55-91ef-4864-95e9-0ac57cc546a1,mohammad.watch,available,5.99,44.49,high,low,8,namesilo,,,28/09/2026 06:19
@@ -507,17 +543,20 @@ d3949693-df94-430c-afc8-9806530df8f6,jessie.watch,available,5.99,44.49,high,low,
 eadf6b09-8b87-404a-9b2a-179cce1acb7f,manganese.watch,available,5.99,44.49,medium,low,9,namesilo,,,20/09/2026 22:40
 d9f66241-6c01-40c2-a5f6-bbb00ff230d1,royally.watch,available,3.48,56.98,medium,low,7,namecheap,,,15/09/2026 12:01
 2194b262-8759-44cc-84a6-dcc3c74c75bb,fought.watch,available,4.99,,medium,low,6,name.com,,,
+cad2e073-e871-4136-899d-f3052d33f70e,facies.watch,available,2.79,35.39,medium,low,6,spaceship,,,29/09/2026 04:47
 b74eb41d-5f2c-4414-a2af-7d96b47d2b63,upcountry.watch,available,3.48,56.98,medium,low,9,namecheap,,,24/08/2026 22:37
 56ccdead-fa55-41cf-92b6-faa2ec96fb8a,supine.watch,available,3.48,56.98,medium,low,6,namecheap,,,09/09/2026 15:27
-1307a314-5dce-4f2f-b726-c6af706924ba,jock.watch,available,4.99,,high,low,4,name.com,,,
+1307a314-5dce-4f2f-b726-c6af706924ba,jock.watch,available,5.99,44.49,high,low,4,namesilo,,,28/09/2026 22:58
 de6c24e4-633a-41e0-a65f-9d57e42632a8,mule.watch,available,5.99,44.49,high,low,4,namesilo,,,28/09/2026 06:56
 495e2aeb-ae26-4a12-8bd9-02cb46cea6f4,unselfish.watch,available,3.48,56.98,high,low,9,namecheap,,,12/09/2026 19:16
+ed535706-3e09-4ed5-8829-c6cf08cd820c,preparation.watch,available,3.48,56.98,high,low,11,namecheap,,,28/09/2026 12:30
 afe3aae1-6cb7-41ef-a0c5-7cddb473c9ac,blooming.watch,available,3.48,56.98,high,low,8,namecheap,,,10/08/2026 15:27
+9944a079-d866-4658-9e3a-52b206a5b2ef,reclaim.watch,available,5.99,44.49,high,low,7,namesilo,,,29/09/2026 02:43
 798f51fe-acb8-4a24-a0f1-17b427d52bb3,masterful.watch,available,3.48,56.98,high,low,9,namecheap,,,23/09/2026 21:35
 a1651aa8-a472-4ae4-b398-c98baabf14b2,westbound.watch,available,3.48,56.98,medium,low,9,namecheap,,,13/09/2026 10:51
 d79fcc38-c1a7-45e3-9450-52e1c70dc80a,emulator.watch,available,5.99,44.49,medium,low,8,namesilo,,,19/09/2026 16:28
 c2a60059-32f9-4c9c-b7dc-49d829e0e6d5,malicious.watch,available,3.48,56.98,medium,low,9,namecheap,,,24/08/2026 14:02
-4d8af012-f0ed-4717-9b28-dd5ffa85a385,pope.watch,available,4.99,,high,low,4,name.com,,,
+4d8af012-f0ed-4717-9b28-dd5ffa85a385,pope.watch,available,2.79,35.39,high,low,4,spaceship,,,28/09/2026 20:19
 dd00e0c0-b8e0-472c-8897-cc6c7f5ffd55,permian.watch,available,34.2,34.2,high,low,7,cloudflare,,,27/09/2026 15:11
 6505f0ba-853e-47d3-9170-036354f5deb7,residents.watch,available,2.79,35.39,low,low,9,spaceship,,,28/09/2026 09:00
 454f3f93-3ff0-494b-9b22-c1c7ca4e8586,allegheny.watch,available,5.99,44.49,medium,low,9,namesilo,,,18/09/2026 10:28
@@ -547,6 +586,7 @@ a396ca13-cca5-4afc-92f6-67271af63ed9,knocks.watch,available,3.48,56.98,medium,lo
 bcac9610-59ef-4803-8890-0aa068c74a12,speculate.watch,available,4.99,,high,low,9,name.com,,,
 f1830cc7-cea0-47e3-af8e-9599dc919cb5,excessive.watch,available,3.48,56.98,medium,low,9,namecheap,,,17/08/2026 16:15
 be555f1b-5c2e-4dd1-b454-b1531407dd21,bearable.watch,available,3.48,56.98,medium,low,8,namecheap,,,09/08/2026 04:27
+4bc2702c-6f0a-4868-af36-690151495e19,stratigraphy.watch,available,34.2,34.2,medium,low,12,cloudflare,,,28/09/2026 22:57
 578c4de5-d0fb-4426-b461-fb52aea7cc8d,abor.watch,available,5.99,44.49,medium,low,4,namesilo,,,16/09/2026 16:36
 6b6ea8be-281f-49ef-9d79-4cca06aab956,withdrawal.watch,available,3.48,56.98,high,low,10,namecheap,,,21/09/2026 15:22
 8efcab98-76ea-496c-b83e-f334594613a1,abstruse.watch,available,3.48,56.98,medium,low,8,namecheap,,,
@@ -557,13 +597,15 @@ e902034c-0229-4116-8014-0bff6f7772ca,frizzly.watch,available,3.48,56.98,medium,l
 d837c084-2b73-4fb4-903e-ef751467665c,apus.watch,available,5.99,44.49,medium,low,4,namesilo,,,19/09/2026 22:43
 5e17619b-f527-4d78-a51c-a5c2e825152f,selling.watch,available,5.99,44.49,high,low,7,namesilo,,,25/09/2026 09:15
 350cd174-e084-49f4-af0b-43368aaf7383,rubinstein.watch,available,3.48,56.98,medium,low,10,namecheap,,,19/09/2026 15:30
-1a42e83f-2582-44b3-89b9-dde5984aa029,galaxy.watch,resell,,,high,medium,6,Dynadot Inc,02/04/2026 17:58,02/04/2027 17:58,26/09/2026 06:18
+1a42e83f-2582-44b3-89b9-dde5984aa029,galaxy.watch,resell,,,high,medium,6,Dynadot Inc,02/04/2026 17:58,02/04/2027 17:58,29/09/2026 02:00
 56456277-518b-4b22-a068-03587b05f7e4,shoes.watch,premium,260,260,high,low,5,namecheap,,,
 c945828c-7355-4d4f-89b9-c8a6f0620fee,proven.watch,available,5.99,44.49,high,low,6,namesilo,,,27/09/2026 08:25
 3dd45067-7a8e-43f2-8634-b978789ee6df,crazed.watch,available,3.48,56.98,medium,low,6,namecheap,,,13/08/2026 05:31
+544c38ec-7a96-4ada-9c64-336ea64f5719,graduating.watch,available,3,36.6,low,low,10,dynadot,,,28/09/2026 12:36
 6525c418-b3a3-4079-a35a-0381aa382ff9,possibilities.watch,available,5.99,44.49,medium,low,13,namesilo,,,16/09/2026 10:01
 9f9fbfe6-883f-46ef-af10-ead437a42704,minimums.watch,available,5.99,44.49,medium,low,8,namesilo,,,20/09/2026 08:36
 9055edb9-7ad7-4dc6-bba6-638fe45af21c,oysters.watch,available,5.99,44.49,medium,low,7,namesilo,,,20/09/2026 03:31
+10fd9cdf-56a7-49e2-a789-84289093ec9f,hay.watch,available,34.2,34.2,high,low,3,cloudflare,,,28/09/2026 14:24
 3f1dfafc-0471-45c0-b6b6-13191b612799,andvari.watch,available,5.99,44.49,medium,low,7,namesilo,,,19/09/2026 05:02
 3188ad27-6fde-477c-b37c-07e53eaebedf,waterborne.watch,available,3.48,56.98,medium,low,10,namecheap,,,13/09/2026 08:36
 611d808e-50c0-4c46-89ab-9cf1adbb4925,abdicable.watch,available,3.48,56.98,medium,low,9,namecheap,,,
@@ -572,6 +614,7 @@ c945828c-7355-4d4f-89b9-c8a6f0620fee,proven.watch,available,5.99,44.49,high,low,
 39909b58-97a7-43c1-acb4-937076fe9a44,nike.watch,available,,,high,high,4,,,,
 ddfdde3f-3215-408f-9e93-d6da7dc0179d,keynesian.watch,available,3.48,56.98,medium,low,9,namecheap,,,22/08/2026 15:46
 ddbe0ff6-3038-4846-b652-18d77e36c472,priscilla.watch,available,2.79,35.39,high,low,9,spaceship,,,28/09/2026 03:51
+8ec5862c-991d-45a5-9d95-d4edece4aa1f,immigration.watch,resell,,,high,low,11,,,,28/09/2026 17:22
 f15da35d-a9e8-4abb-86d8-a91f8d88d604,penny.watch,available,4.99,,high,low,5,name.com,,,
 1450e31c-f9c5-4c77-b60d-70baace5555c,podlike.watch,available,3.48,56.98,medium,low,7,namecheap,,,08/09/2026 22:31
 213c27cb-8c39-4b3a-bfff-6bb510000c51,hemorrhage.watch,available,5.99,44.49,medium,low,10,namesilo,,,24/09/2026 05:28
@@ -604,19 +647,23 @@ c984b811-6400-49cf-a208-c2082e3bc490,negotiation.watch,available,5.99,44.49,high
 dd6c7804-9e7e-4698-abe1-85e74feaea8f,crotchety.watch,available,3.48,56.98,medium,low,9,namecheap,,,13/08/2026 08:25
 6ca63859-7ad2-4c29-ac98-7cc55dd78d77,belong.watch,available,4.99,,high,low,6,name.com,,,
 8356550f-964d-4232-9b84-740c26c68548,surpassing.watch,available,3.48,56.98,high,low,10,namecheap,,,17/08/2026 16:03
+a4da2fad-de75-4eab-9307-56d44480888a,hutchins.watch,available,3.48,56.98,medium,low,8,namecheap,,,28/09/2026 19:28
 faa6e2a7-c694-4144-b85c-0d6499e5aa93,releasing.watch,available,3.48,56.98,high,low,9,namecheap,,,09/09/2026 13:32
 89ea8588-0f05-4058-bb7f-1022d65ae144,carmichael.watch,available,34.2,34.2,high,low,10,cloudflare,,,28/09/2026 02:01
 7f1a8276-2509-4f84-b9c8-ad3a6506cda2,roarer.watch,available,5.99,44.49,medium,low,6,namesilo,,,22/09/2026 16:57
 05430d20-c0b6-40b5-b596-1b249d3ff826,coconut.watch,available,4.99,,high,low,7,name.com,,,
+8c70a281-272a-4dfd-992c-13310a919562,lincolnshire.watch,available,5.99,44.49,medium,low,12,namesilo,,,28/09/2026 11:48
 06249c2c-88ce-4947-a4d5-334ced9ca972,anterior.watch,available,3.48,56.98,high,low,8,namecheap,,,
 b00e6bc0-925f-491d-bbc8-4f9d8ce0055a,abbess.watch,available,3.48,56.98,medium,low,6,namecheap,,,16/09/2026 14:23
 ba76c14b-2192-40ca-8d91-39c1865757e6,leering.watch,available,4.99,56.99,medium,low,7,name.com,,,25/09/2026 05:58
+64ab52f2-3f45-4b49-b9ef-52281437df5e,consumed.watch,available,5.5,,medium,low,8,unstoppable,,,28/09/2026 22:51
 9eeb0c06-ba2f-4277-94b5-e0a65fa31b87,anxiously.watch,available,3.48,56.98,medium,low,9,namecheap,,,13/09/2026 20:05
 70441300-2511-48c3-b184-eb976636da52,grin.watch,available,34.2,34.2,high,low,4,cloudflare,,,27/09/2026 23:08
 61e83939-02bc-4b9f-b793-358a4f4c251b,says.watch,available,3.48,56.98,medium,low,4,namecheap,,,
 88ab7e9d-25bc-43dd-aec3-98cd31c2d2d3,nutlike.watch,available,3.48,56.98,medium,low,7,namecheap,,,03/09/2026 23:16
 dec072c1-3fc9-4630-a506-53c3510b71f5,arteria.watch,available,5.99,44.49,high,low,7,namesilo,,,20/09/2026 10:30
 4f0beb12-c714-4024-866e-00b7331d6deb,adience.watch,available,5.99,44.49,medium,low,7,namesilo,,,17/09/2026 08:09
+d15794d5-5e0d-447e-bbc3-33e94c5fae3b,tran.watch,available,3,36.6,high,low,4,dynadot,,,29/09/2026 03:38
 04c2fe76-da78-4807-96e3-c72415044abd,indicates.watch,available,5.5,,medium,low,9,unstoppable,,,28/09/2026 08:19
 f7196042-3e43-43a0-b36d-10177584643b,participants.watch,available,5.99,44.49,medium,low,12,namesilo,,,18/09/2026 04:57
 1d7fc5a2-a8ea-4959-85be-cfd24fd8fdc2,adamance.watch,available,5.99,44.49,medium,low,8,namesilo,,,17/09/2026 06:15
@@ -635,6 +682,7 @@ bc2fa059-f2db-40e6-9e5a-45a87a585818,controversial.watch,available,4.99,,medium,
 ec203469-1430-4eba-ad1a-70a893179e3a,empire.watch,resell,,,high,medium,6,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,26/09/2026 05:49
 a0292698-c786-45dc-a0ea-71afdd04c5b9,doodlebug.watch,available,5.99,44.49,medium,low,9,namesilo,,,19/09/2026 12:18
 a581084d-5bed-46f8-947a-d9c8febd2aeb,infectious.watch,available,3.48,56.98,medium,low,10,namecheap,,,22/08/2026 04:12
+ca906b2e-0655-451e-a23c-76cebfa35773,photographic.watch,available,2.79,35.39,high,low,12,spaceship,,,28/09/2026 21:08
 9f0a6e20-7e2a-4ad0-87f0-e91a60315764,mitchell.watch,available,3.48,56.98,high,low,8,namecheap,,,20/09/2026 11:03
 a7ade152-b030-4248-8b95-d421810cb74f,pickups.watch,available,5.99,44.49,medium,low,7,namesilo,,,20/09/2026 05:31
 57bde867-0a3b-40e5-a61e-8f015f4fd83a,fervently.watch,available,3.48,56.98,medium,low,9,namecheap,,,14/09/2026 18:24
@@ -643,11 +691,12 @@ bc93ca21-7cbf-405e-b0c4-211a953610eb,germans.watch,available,5.99,44.49,medium,l
 5e66cf8f-d2fb-418b-a4f0-7d1502d15d50,walters.watch,premium,38.94,38.94,medium,low,7,namesilo,,,25/09/2026 15:56
 01c44e7c-ba27-47a7-a610-058516097bc8,antlered.watch,available,3.48,56.98,medium,low,8,namecheap,,,05/08/2026 20:11
 39bc9385-5152-405a-bfb9-fdfd1f352d07,truthfully.watch,available,5.99,44.49,medium,low,10,namesilo,,,16/09/2026 09:34
-f532a6df-6cb9-4827-ae90-62436d82d265,again.watch,available,4.99,,high,low,5,name.com,,,
+f532a6df-6cb9-4827-ae90-62436d82d265,again.watch,available,5.99,44.49,high,low,5,namesilo,,,28/09/2026 11:49
 3e302008-9e59-4df3-8ead-a8bef5848fec,transported.watch,available,5.99,44.49,medium,low,11,namesilo,,,16/09/2026 07:05
 8dcaffa6-e0cb-4136-82af-c74c562b871e,petite.watch,available,3.48,56.98,medium,low,6,namecheap,,,08/08/2026 14:24
 2cde38c7-8eb2-4b99-9ee2-5cf936bfde61,intrusive.watch,available,3.48,56.98,high,low,9,namecheap,,,22/08/2026 08:49
 f6a47e9b-9ca8-429c-8580-0202852e90f8,spiffy.watch,available,4.99,56.99,high,low,6,name.com,,,13/08/2026 17:36
+d6bcca72-f7e0-455d-bb4c-3adfec075525,shasta.watch,available,3.48,56.98,medium,low,6,namecheap,,,28/09/2026 14:55
 6d2e4d45-d7f2-441d-9829-08922ec60efb,offering.watch,available,3.48,56.98,high,low,8,namecheap,,,25/09/2026 09:37
 0c2d6199-5f38-470d-9358-6d76b7455e65,rigil.watch,available,5.99,44.49,medium,low,5,namesilo,,,18/09/2026 13:35
 67c709fa-d356-42da-a4d3-68c85e5f2cc1,tuesday.watch,available,4.99,,high,low,7,name.com,,,
@@ -671,6 +720,7 @@ f55207ac-0a70-4bee-9f2a-eb0cc6ed3c87,acromion.watch,available,3.48,56.98,medium,
 55c56bf2-3dae-4b06-86e7-7a2986e29206,adana.watch,available,5.99,44.49,medium,low,5,namesilo,,,17/09/2026 06:19
 b016ba4b-c18e-42d7-9d53-ceb9f0c728a7,constraint.watch,available,5.99,44.49,high,low,10,namesilo,,,24/09/2026 17:34
 ef8cb57e-ee1c-4e99-b725-cbb9be6dd297,liberated.watch,available,3.48,56.98,high,low,9,namecheap,,,16/08/2026 06:20
+21b4e3be-bac6-4eb7-93d0-9a824d75b6c2,resisting.watch,available,2.79,35.39,medium,low,9,spaceship,,,28/09/2026 21:16
 2799eca2-9164-45a6-a912-f3e1cf9c149f,brett.watch,available,5.99,44.49,high,low,5,namesilo,,,28/09/2026 07:03
 18b2136d-3f9c-4b50-b052-5958b802add7,anthony.watch,premium,118.8,118.8,high,low,7,namesilo,,,19/09/2026 13:34
 3c1c73e5-01cd-4be9-9851-5d71219b1166,showed.watch,available,4.99,,medium,low,6,name.com,,,
@@ -690,9 +740,11 @@ e3f4705f-8f7c-46e3-8021-31a7450b0735,astrocyte.watch,available,5.99,44.49,medium
 b9c10fb7-0746-415a-a27f-40c982f1d71a,sportsperson.watch,available,5.99,44.49,high,low,12,namesilo,,,16/09/2026 08:58
 67b15067-b34b-4f18-8795-6ba50bf049c5,planet.watch,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",02/01/2026 15:15,02/01/2027 15:15,26/09/2026 08:11
 ff840094-6f36-4c37-8ba8-41daa56d7507,gamely.watch,available,3.48,56.98,medium,low,6,namecheap,,,14/09/2026 21:02
+a0326361-95b7-4f60-8953-a3a2e608a5d3,folded.watch,available,34.2,34.2,medium,low,6,cloudflare,,,28/09/2026 16:55
 5a89e506-2bb7-4396-a755-0762a8bec9b0,ratios.watch,available,5.99,44.49,medium,low,6,namesilo,,,20/09/2026 23:23
 b341b345-c41a-4361-b7dc-55fe3cbfbc90,colonised.watch,available,3.48,56.98,medium,low,9,namecheap,,,12/08/2026 17:25
 d3189bde-bf68-4e00-92eb-23a3e1e9454e,carbonic.watch,available,3.48,56.98,medium,low,8,namecheap,,,11/08/2026 18:37
+e709bb90-c7e3-46af-828a-3f9f2ef76520,invade.watch,available,3.48,56.98,medium,low,6,namecheap,,,28/09/2026 15:34
 97dba5ca-961b-40c7-a4b7-f410f84d83d0,penetration.watch,available,3.48,56.98,medium,low,11,namecheap,,,08/09/2026 15:09
 190b3446-de35-4117-b7a0-7ab82f7c8ba9,shining.watch,available,5.99,44.49,high,low,7,namesilo,,,23/09/2026 11:49
 01b2f146-374a-49de-a7fb-281e87707d75,mention.watch,available,4.99,,high,low,7,name.com,,,
@@ -709,6 +761,7 @@ a962674f-52b3-4700-8a10-8c79cd712111,activities.watch,available,2.79,35.39,mediu
 b4be8aa9-7973-49d8-b421-4d86cce2ef85,puffy.watch,available,3.48,56.98,high,low,5,namecheap,,,10/08/2026 21:34
 25901325-7b72-416d-b0e4-7b58bc17d801,thousands.watch,available,3.48,56.98,medium,low,9,namecheap,,,18/09/2026 15:22
 de28469a-f5f4-46d6-98c1-f3c5d4639903,cleanser.watch,available,3.48,56.98,high,low,8,namecheap,,,24/09/2026 15:26
+ca6d209d-cbb1-4742-9125-bc6de5b65694,macy.watch,available,5.99,44.49,medium,low,4,namesilo,,,28/09/2026 22:01
 d48317fd-5e91-47e4-972b-136587938db2,frenzy.watch,available,5.99,44.49,high,low,6,namesilo,,,24/09/2026 21:40
 413698c6-47dd-4b91-b21b-7c5ef2ad40ba,facetious.watch,available,3.48,56.98,medium,low,9,namecheap,,,08/08/2026 14:39
 0aad37ff-1d20-4edd-804f-ee69db1f1725,mcdonald.watch,available,4.99,,high,low,8,name.com,,,
@@ -720,12 +773,14 @@ d48317fd-5e91-47e4-972b-136587938db2,frenzy.watch,available,5.99,44.49,high,low,
 97db8743-4026-4b8e-94e9-6e91e1b7f28a,passports.watch,available,5.99,44.49,medium,low,9,namesilo,,,20/09/2026 09:52
 ed45e947-d5ed-44b7-a7f8-a4f6e5e1e96d,meanly.watch,available,3.48,56.98,medium,low,6,namecheap,,,13/09/2026 23:32
 609ed9c6-2ef4-4d48-a269-00004934a073,albuterol.watch,available,4.99,56.99,medium,low,9,name.com,,,18/09/2026 03:32
+58362d50-1151-4fda-b6e1-7d37f6fe23e8,vermont.watch,premium,78.54,78.54,high,low,7,namesilo,,,28/09/2026 09:57
 83acc89c-ddd3-446a-a432-30b539e9ab92,arsenic.watch,available,3.48,56.98,medium,low,7,namecheap,,,13/09/2026 21:07
 ce1b4a9a-a910-4f24-829e-ee1a0fb2658c,nidifugous.watch,available,3.48,56.98,low,low,10,namecheap,,,03/09/2026 17:08
 ff0d19b0-386c-4220-bfbe-811877949371,tibetan.watch,available,3.48,56.98,high,low,7,namecheap,,,11/09/2026 15:23
 641b1388-a752-4131-83f2-00f325e68e85,ooze.watch,available,3.48,56.98,high,low,4,namecheap,,,04/09/2026 15:40
 91ea3162-3197-4e38-8996-7bf9d2c85900,attacker.watch,available,5.99,44.49,high,low,8,namesilo,,,17/09/2026 17:41
 8da63a93-b09e-4fd8-8f16-62b6731fddd9,acicular.watch,available,3.48,56.98,medium,low,8,namecheap,,,
+b33e38d8-4021-4cd4-9f05-4b5d7668fc0a,humidity.watch,available,3.48,56.98,high,low,8,namecheap,,,29/09/2026 01:18
 9536dc77-6675-407d-a72c-f44245b1e55d,consort.watch,available,5.99,44.49,medium,low,7,namesilo,,,16/09/2026 22:56
 c7e5ae37-ab63-40c6-a63b-bb0d78545d68,effete.watch,available,3.48,56.98,medium,low,6,namecheap,,,13/08/2026 20:52
 2f378d92-d724-4603-b472-929b99442e07,sotho.watch,available,3.48,56.98,medium,low,5,namecheap,,,10/09/2026 14:39
@@ -758,6 +813,7 @@ eaa0ebc0-5003-44d8-a5f5-e55e6bd5f328,getatable.watch,available,3.48,56.98,medium
 413ba6af-4cf0-459d-bef0-e80ded0a783b,fresh.watch,resell,4.99,,high,medium,5,"Sav.com, LLC",30/06/2026 20:05,30/06/2027 20:05,26/09/2026 06:15
 ff06af5b-f5ae-4767-bc7a-6aae6fe5a1f6,rhombic.watch,available,3.48,56.98,medium,low,7,namecheap,,,09/09/2026 16:43
 be121670-3475-40fe-89da-799bb33fe874,rogers.watch,premium,,,high,low,6,,,,27/09/2026 12:11
+af6e2d22-f0be-4d5c-91ce-178ea2aa6128,frustration.watch,available,3,36.6,medium,low,11,dynadot,,,28/09/2026 17:13
 8fc111de-c6e8-4f10-9c80-d85dd1229eec,unwieldy.watch,available,3.48,56.98,medium,low,8,namecheap,,,12/08/2026 13:10
 146ab008-3823-45cc-b044-50ec670a055a,sycophant.watch,available,5.99,44.49,medium,low,9,namesilo,,,20/09/2026 15:34
 2dbc2c78-0ab7-46d0-b731-a55a3b56e783,unfailing.watch,available,3.48,56.98,high,low,9,namecheap,,,18/08/2026 10:39
@@ -765,9 +821,10 @@ be121670-3475-40fe-89da-799bb33fe874,rogers.watch,premium,,,high,low,6,,,,27/09/
 99a16873-a7b4-4cea-8d8d-82f1b9c6ec8e,isometric.watch,available,3.48,56.98,high,low,9,namecheap,,,22/08/2026 11:10
 d0369acd-e06d-4267-b4af-9e7520ac688f,cheerio.watch,available,5.99,44.49,high,low,7,namesilo,,,17/09/2026 08:13
 5a2ac5c2-f803-4376-82bb-6976631ca18c,alarum.watch,available,5.99,44.49,medium,low,6,namesilo,,,18/09/2026 02:00
-d81d11a3-0644-4295-b8f0-8666015f16fb,getting.watch,available,4.99,,high,low,7,name.com,,,
+d81d11a3-0644-4295-b8f0-8666015f16fb,getting.watch,available,2.79,35.39,high,low,7,spaceship,,,28/09/2026 17:59
 c291698b-7b4f-4c1c-b81c-38450f8ba14e,turbulent.watch,available,3.48,56.98,medium,low,9,namecheap,,,14/08/2026 12:26
 e09f2774-0335-4cf4-9a0c-a5743f5bb470,billhook.watch,available,5.99,44.49,medium,low,8,namesilo,,,23/09/2026 16:21
+ae9250a9-4c07-4544-84c3-cbefedeffdde,hampstead.watch,available,2.79,35.39,medium,low,9,spaceship,,,29/09/2026 03:36
 8ecd0a98-4d36-405c-8592-18f0e0097890,disneyland.watch,available,4.99,,high,low,10,name.com,,,
 11bc908b-0355-4767-945b-5da66e121ac2,bassoon.watch,available,3.48,56.98,medium,low,7,namecheap,,,22/09/2026 12:33
 224e6756-5c37-4c36-90ef-4d3ef6a6b6d9,episode.watch,available,4.99,,high,low,7,name.com,,,
@@ -780,11 +837,14 @@ c3a03628-9bcf-4cdc-9131-9857818204c3,fiber.watch,available,4.99,,high,low,5,name
 79c004dd-1a82-4064-98e7-f70cbcb47705,theirs.watch,available,4.99,,medium,low,6,name.com,,,
 1af3c2a0-efe0-4973-aa7d-c31bfa6c16ab,stepped.watch,available,3.48,56.98,high,low,7,namecheap,,,25/09/2026 18:05
 f3db36f6-c90a-453e-b231-3742360a5c95,dependant.watch,available,3.48,56.98,medium,low,9,namecheap,,,14/08/2026 02:08
+bb0abb09-fa7d-4768-85a8-2fca9b8630fa,wrath.watch,available,3,36.6,medium,low,5,dynadot,,,28/09/2026 20:48
 d542b05c-6c4d-4d79-a40d-d1552c31ae8c,protozoan.watch,available,3.48,56.98,medium,low,9,namecheap,,,09/09/2026 04:12
+a7a1e577-91a4-41b9-899e-924adaf73fbb,slides.watch,available,3.09,35.53,medium,low,6,porkbun,,,29/09/2026 05:46
 47384f01-07d1-4ccf-afd5-fb1a235ab719,slender.watch,available,3.48,56.98,high,low,7,namecheap,,,24/08/2026 01:14
 e5675c16-c7f7-4124-b611-0bd6302017a2,outsize.watch,available,3.48,56.98,high,low,7,namecheap,,,04/09/2026 19:38
 b3eea206-3162-49b1-8a38-1fc7a5e1778a,tuneless.watch,available,3.48,56.98,medium,low,8,namecheap,,,11/09/2026 21:05
 1707de99-3d2c-4ed2-be97-186e56251800,postwar.watch,available,3.48,56.98,medium,low,7,namecheap,,,09/09/2026 00:42
+7da89e89-8857-4d17-8bd2-9195b0f1cfc3,intuition.watch,available,3.48,56.98,high,low,9,namecheap,,,28/09/2026 19:28
 2fca1337-52ba-4ac3-a52a-2651881e8e73,hurtful.watch,available,3.48,56.98,medium,low,7,namecheap,,,14/08/2026 00:28
 a12742f7-f3d8-4f07-9442-04805577e32a,insomniac.watch,available,3.48,56.98,high,low,9,namecheap,,,22/08/2026 07:22
 52478cf1-9df8-4fda-892f-2faec64f345d,hanger.watch,available,4.99,,medium,low,6,name.com,,,
@@ -797,12 +857,14 @@ a9e0eec0-dbea-48e1-b135-2916d943cf9d,thresher.watch,available,3.48,56.98,medium,
 c8984b3b-1000-4e1c-a71b-7c87b4c6a1fe,dallas.watch,premium,118.8,118.8,high,low,6,namesilo,,,25/09/2026 04:35
 b090102b-4676-40c1-8d8f-687b0dcd363e,virgil.watch,available,3.48,56.98,high,low,6,namecheap,,,28/09/2026 02:58
 7a554020-ebf1-4cb5-8f62-39aecd46fbb6,violated.watch,available,5.99,44.49,medium,low,8,namesilo,,,27/09/2026 07:04
+d02451b9-787c-475a-94a8-2554d899c191,generate.watch,available,2.79,35.39,high,low,8,spaceship,,,28/09/2026 19:12
 67c872cd-74d7-4bb7-bd73-ce643e45e578,repel.watch,available,4.99,,high,low,5,name.com,,,
 6dfd2fa3-16fd-4e10-9128-3aaa7c4f8b79,oven.watch,available,3.09,35.53,high,low,4,porkbun,,,28/09/2026 06:32
 8db8854e-5762-4cda-a1ea-18d9828848bb,monkfish.watch,available,5.99,44.49,medium,low,8,namesilo,,,18/09/2026 11:42
 7ea3376d-6a1b-46c4-8e09-c46e56f65367,brutal.watch,available,3.48,56.98,medium,low,6,namecheap,,,08/08/2026 15:45
 98ef6dad-76d5-4af2-85cd-4d16be66f7da,intersex.watch,available,3.48,56.98,high,low,8,namecheap,,,17/08/2026 10:33
 37499046-b1fc-4863-acf5-12516d2828b7,important.watch,available,5.99,44.49,high,low,9,namesilo,,,22/09/2026 13:54
+26137aaf-c37e-4d42-a7e4-0adbc40e90f4,arise.watch,available,3.48,56.98,high,low,5,namecheap,,,28/09/2026 10:48
 755f9fbb-89b0-411c-bd3d-015f41dad720,choirs.watch,available,5.99,44.49,medium,low,6,namesilo,,,17/09/2026 06:51
 de8d1d9e-d039-4eef-874d-b5017cb6f507,eternal.watch,available,5.99,44.49,high,medium,7,namesilo,,,21/09/2026 22:47
 908fb11d-5e52-4bb7-8f24-1c6e99c3be60,inflated.watch,available,3.48,56.98,medium,low,8,namecheap,,,21/08/2026 08:47
@@ -820,8 +882,9 @@ fafd9626-e572-4dd1-a7c3-a639fc34a56d,siege.watch,available,5.99,44.49,high,low,5
 a67c772f-7282-42cd-8fe8-24f775cbb295,tunic.watch,available,5.99,44.49,high,low,5,namesilo,,,17/09/2026 10:34
 b053dba0-b975-48ee-aa81-62da88bb3586,flaxseed.watch,available,5.99,44.49,high,low,9,namesilo,,,16/09/2026 10:28
 d6a9d6dc-92d4-479d-9982-a592e4bf71d2,egyptian.watch,available,3.48,56.98,high,low,8,namecheap,,,15/08/2026 19:52
-9cb683a6-f1e5-4ccd-9156-d29c52a7c365,basement.watch,available,4.99,,high,low,8,name.com,,,
+9cb683a6-f1e5-4ccd-9156-d29c52a7c365,basement.watch,available,2.79,35.39,high,low,8,spaceship,,,29/09/2026 01:22
 04759e06-976f-4cdb-b179-8856c1243780,improvable.watch,available,3.48,56.98,medium,low,10,namecheap,,,21/08/2026 23:14
+354bc4c8-1205-4bf7-83ce-f8426f7c7da6,broadcasting.watch,available,34.2,34.2,medium,low,12,cloudflare,,,28/09/2026 12:27
 a551d083-21d1-479d-91da-65600833d94d,outspread.watch,available,3.48,56.98,high,low,9,namecheap,,,04/09/2026 19:47
 439e8e30-0ea1-4bc8-8eb0-5f16c754f400,digging.watch,available,3.48,56.98,high,low,7,namecheap,,,27/09/2026 13:02
 7f483ed9-d671-49a4-849f-bc6b876397d8,frontal.watch,available,3.48,56.98,high,low,7,namecheap,,,18/08/2026 16:15
@@ -837,6 +900,7 @@ e34d6ffa-83a4-4317-8c7e-24f1473b843a,hold.watch,available,5.99,44.49,high,low,4,
 ad3b6a2e-3938-4836-897b-59d58c2711df,twit.watch,available,3.48,56.98,medium,low,4,namecheap,,,11/09/2026 09:11
 3a65d0d8-56e8-497d-be4f-8202591d4bac,peanuts.watch,available,5.5,,high,low,7,unstoppable,,,28/09/2026 02:53
 c8583afb-fea6-4700-b918-4db22f65a8f2,sunburst.watch,available,4.99,,high,low,8,name.com,,,
+a90e2ba7-9ba8-4bda-a72f-3d65faf06f44,peyton.watch,available,3.48,56.98,medium,low,6,namecheap,,,28/09/2026 18:24
 eda75b43-489e-4a98-bd8d-e4f1c1623142,atomiser.watch,available,5.99,44.49,medium,low,8,namesilo,,,21/09/2026 00:19
 139aa0df-b490-401b-a7df-0ae775afa92a,arrhenius.watch,available,3.48,56.98,high,low,9,namecheap,,,20/09/2026 09:11
 151e71cf-4661-4f98-b290-7549317643f3,selections.watch,available,5.99,44.49,medium,low,10,namesilo,,,20/09/2026 10:53
@@ -844,8 +908,10 @@ eda75b43-489e-4a98-bd8d-e4f1c1623142,atomiser.watch,available,5.99,44.49,medium,
 8931b3f0-b69e-4eac-881f-c74a9167c285,maddened.watch,available,3.48,56.98,medium,low,8,namecheap,,,
 eb6c5c93-ffcc-4203-80e0-d1f6cae72b7f,unpowered.watch,available,3.48,56.98,medium,low,9,namecheap,,,12/09/2026 17:18
 1ff6cabb-d575-472c-a60b-774a8022bbff,ask.watch,resell,,,high,medium,3,"NameSilo, LLC",14/02/2019 22:45,14/02/2027 22:45,26/09/2026 04:04
+98a6c8e3-ad14-4b26-b1b1-c48f21cc9d20,pritchard.watch,available,5.99,44.49,medium,low,9,namesilo,,,28/09/2026 12:14
 529529a8-acc0-4306-b617-66da46ad9f1d,thirdly.watch,available,3.48,56.98,medium,low,7,namecheap,,,11/09/2026 13:39
 6a7140d8-dd5f-4dea-9335-a7e057de7321,platoon.watch,available,3.48,56.98,high,low,7,namecheap,,,27/09/2026 15:14
+784fcc60-1a17-4292-b2db-387e477ea2c0,shaun.watch,available,5.99,44.49,medium,low,5,namesilo,,,29/09/2026 03:45
 d2378777-2657-47b9-b84b-0f63c78713ab,steroidal.watch,available,3.48,56.98,medium,low,9,namecheap,,,10/09/2026 20:19
 07f360cb-752a-46fc-8ba9-b51038de1ae5,tied.watch,available,3.48,56.98,high,low,4,namecheap,,,22/08/2026 17:45
 7efa0a11-61ec-49d5-8a2d-212d9e3457e8,rockefeller.watch,available,5.99,44.49,high,low,11,namesilo,,,25/09/2026 12:15
@@ -860,6 +926,7 @@ feff0a1d-63d6-496b-9501-d5959bf14ed7,radish.watch,available,3.48,56.98,high,low,
 9c2b84fa-104f-4778-bcf2-823f7b5fe6b6,invisibly.watch,available,3.48,56.98,medium,low,9,namecheap,,,15/09/2026 09:10
 9bdd2fb8-de2f-4cba-9a54-8a68bde2b1b2,fiddling.watch,available,3.48,56.98,medium,low,8,namecheap,,,18/08/2026 03:28
 8982963c-cbbc-4de6-83f9-65d220e6cd2e,preceding.watch,available,4.99,,medium,low,9,name.com,,,
+3c10b32a-c383-4fb4-af76-c79adc0c7b49,attorney.watch,premium,,,high,low,8,,,,28/09/2026 23:09
 a04fcbd9-2a60-44b0-bb3d-cf77daca231e,sunrise.watch,resell,,,high,low,7,Dynadot Inc,14/07/2026 17:00,14/07/2027 17:00,28/09/2026 01:57
 330d6abb-b5f0-4a2c-91a8-a71bde9d3d9f,tournament.watch,available,5.99,44.49,high,low,10,namesilo,,,27/09/2026 05:49
 d0c1286b-51c5-4661-8dde-259c282ed6fb,continuo.watch,available,3.48,56.98,medium,low,8,namecheap,,,22/09/2026 12:27
@@ -878,6 +945,7 @@ f40b1292-2764-47bd-b955-ccecad7fc2db,washup.watch,available,5.99,44.49,medium,lo
 fbde53de-cb78-4a10-892f-abdab15fab9a,washout.watch,available,3.48,56.98,medium,low,7,namecheap,,,14/08/2026 20:57
 5c3d75b1-a38c-4b11-adb1-dc40b2dd287f,aspherical.watch,available,3.48,56.98,medium,low,10,namecheap,,,07/08/2026 04:57
 2af6b36a-a6c9-4930-a8bc-d20787c39c47,doorbell.watch,available,5.99,44.49,high,low,8,namesilo,,,24/09/2026 11:23
+bfca3b08-66ec-4b0d-94d8-b9630da932fa,outfits.watch,available,5.99,44.49,medium,low,7,namesilo,,,28/09/2026 23:41
 ad580828-c7a6-4917-9cc5-ffe9009acfbb,rocambole.watch,available,5.99,44.49,medium,low,9,namesilo,,,18/09/2026 11:33
 03b3aad3-ab50-4bff-b283-ea41dcea2a54,ampoule.watch,available,5.99,44.49,medium,low,7,namesilo,,,18/09/2026 23:49
 a428c42b-0b85-4849-8b3b-6b1f0cf3ba22,prole.watch,available,3.48,56.98,medium,low,5,namecheap,,,09/09/2026 03:01
@@ -887,6 +955,7 @@ ba557dc7-f102-4a65-bddb-5794ee452628,spectacular.watch,available,5.99,44.49,high
 38bb3e2c-f12d-498c-abef-5bb97724b3ae,persuasive.watch,available,3.48,56.98,high,low,10,namecheap,,,08/09/2026 18:05
 52dfa3e7-726d-4237-add1-ab09e5291b7e,words.watch,available,5.99,44.49,high,low,5,namesilo,,,25/09/2026 15:51
 2eaef2f3-ac0f-40d3-b9a3-50a89b0fb871,edwin.watch,available,5.99,44.49,medium,low,5,namesilo,,,25/09/2026 05:17
+c34707d2-a703-4b3d-928f-2b7c092a52aa,travers.watch,available,2.79,35.39,medium,low,7,spaceship,,,28/09/2026 16:18
 e6860a5a-0010-446f-8629-401e8a685e67,scripted.watch,available,34.2,34.2,high,low,8,cloudflare,,,27/09/2026 18:42
 fa66bef7-1261-4951-80a6-c4a45357bc4a,fooling.watch,available,3.48,56.98,high,low,7,namecheap,,,18/08/2026 10:35
 8334da1b-9970-4ee1-b2b7-d35e617079c2,concoct.watch,available,4.99,,high,low,7,name.com,,,
@@ -902,7 +971,7 @@ fec2529c-3483-4851-be86-cf50c690ce8c,nas.watch,resell,,,high,medium,3,Dynadot In
 c7b30fde-f01d-411c-9df6-2f8fed034720,redden.watch,available,3.48,56.98,medium,low,6,namecheap,,,13/08/2026 06:34
 be95fa3c-8089-4c32-8a9e-79599b0d3b64,corrupted.watch,available,5.99,44.49,medium,low,9,namesilo,,,23/09/2026 23:59
 2ab7a064-ea04-4c66-b3c3-6baa2b47eb32,milch.watch,available,3.48,56.98,medium,low,5,namecheap,,,24/08/2026 22:55
-fafeb569-13f8-4676-ab50-b50e0f7de971,publicly.watch,available,4.99,,medium,low,8,name.com,,,
+fafeb569-13f8-4676-ab50-b50e0f7de971,publicly.watch,available,5.99,44.49,medium,low,8,namesilo,,,28/09/2026 15:37
 3bf4f735-97a4-4a2e-93f9-7d9d41553d34,medial.watch,available,3.48,56.98,high,low,6,namecheap,,,24/08/2026 18:51
 65416c99-602f-4f03-a355-03243d20db21,upland.watch,available,3.48,56.98,medium,low,6,namecheap,,,21/08/2026 09:14
 aa113ad4-e9ee-4ef1-b9fd-6d4a850e3a62,cant.watch,available,3.48,56.98,medium,low,4,namecheap,,,13/09/2026 04:09
@@ -920,6 +989,7 @@ c74c76e8-b8e4-41b5-9906-451007cbe0dd,tameable.watch,available,3.48,56.98,medium,
 8f341a4c-87d4-4b6f-bf87-8549397d0ebe,ineffably.watch,available,3.48,56.98,medium,low,9,namecheap,,,15/09/2026 07:55
 dc3b5d66-4f23-42f1-bcc6-28a0599be7cc,nomadic.watch,available,3.48,56.98,high,low,7,namecheap,,,25/08/2026 02:19
 feb90960-eeb2-4ea0-aafa-2fc7943254bd,prostitute.watch,available,4.99,56.99,high,low,10,name.com,,,13/08/2026 14:11
+cba7bf51-5875-4757-a2d5-38037721557f,succeeded.watch,available,5.5,,medium,low,9,unstoppable,,,28/09/2026 17:37
 3f143ab1-328f-4115-8ae5-75fe17546bc5,arboreal.watch,available,3.48,56.98,high,low,8,namecheap,,,06/08/2026 13:18
 7a155174-981d-4b0a-9998-6721d02bc89a,sombre.watch,available,3.48,56.98,medium,low,6,namecheap,,,10/09/2026 14:02
 25393715-2006-4602-b8e3-c8d9f92128e6,unnamed.watch,available,3.48,56.98,medium,low,7,namecheap,,,03/09/2026 12:56
@@ -927,75 +997,5 @@ a28dcd84-9835-4d06-a4a2-02198b3321cb,brumal.watch,available,3.48,56.98,medium,lo
 16324b82-03a5-4d5b-8927-3e8fcdaaa73b,cpu.watch,available,5.99,44.49,high,low,3,namesilo,,,24/09/2026 11:27
 64d98d96-3ca7-4c08-9236-0493213f72d5,wells.watch,available,5.99,44.49,high,low,5,namesilo,,,27/09/2026 04:19
 a6507b33-a9d0-4a97-8386-be3dfac19ebd,phoney.watch,available,3.48,56.98,medium,low,6,namecheap,,,08/08/2026 23:14
+9aee8223-7cb3-4f86-9697-99ec681f332e,lenses.watch,available,5.99,44.49,medium,low,6,namesilo,,,29/09/2026 05:38
 1d5b56ee-e4b8-4286-901a-72cd286bfb51,fad.watch,available,3.48,56.98,high,low,3,namecheap,,,24/09/2026 19:13
-61926976-2421-4806-a090-e4f466d153e3,deposits.watch,available,4.99,,medium,low,8,name.com,,,
-3ff1675c-f979-4d05-91f2-8bf9288840a2,checks.watch,available,3.48,56.98,medium,low,6,namecheap,,,25/09/2026 20:11
-c9280b81-acd8-46b4-8196-14d2904dc7a3,habitually.watch,available,3.48,56.98,medium,low,10,namecheap,,,14/09/2026 22:45
-d2c18ec8-4af2-4bb2-82a0-58b85196ff64,helen.watch,available,5.99,44.49,high,low,5,namesilo,,,25/09/2026 07:10
-0fcfa6f1-89d6-49ee-ac6e-1e788d913a0d,costumed.watch,available,3.48,56.98,medium,low,8,namecheap,,,13/08/2026 03:18
-b7114f56-a270-430e-8f1b-460f9a2b2869,fis.watch,available,3.48,56.98,high,low,3,namecheap,,,28/09/2026 03:41
-1b9f8b7d-6783-46ee-be5d-c25bebe8fe21,accede.watch,available,5.99,44.49,high,low,6,namesilo,,,20/09/2026 16:11
-9ea1a89e-612c-4e3c-aafd-58f28cdfb214,mouthwash.watch,available,4.99,,high,low,10,name.com,,,
-b15587b9-4df3-43aa-aa13-ec627af4e531,unq.watch,available,5.99,44.49,medium,low,3,namesilo,,,20/09/2026 22:06
-0974834f-8fb1-4b68-b573-f289c74fb9e1,darius.watch,available,5.99,44.49,medium,low,6,namesilo,,,27/09/2026 07:28
-ad4c8e4f-92e6-4fb1-92a2-2e0babeb8161,might.watch,available,4.99,,high,low,5,name.com,,,
-deb8efa1-10e9-4e35-bf70-d38646b61c59,basalt.watch,available,3.48,56.98,medium,low,6,namecheap,,,22/09/2026 09:53
-59a0fb5e-6eec-4eb6-9db4-e0ef79377f9a,trieste.watch,available,2.79,35.39,medium,low,7,spaceship,,,27/09/2026 18:38
-44ab3b2a-3890-47b6-b6b3-501015777228,scandal.watch,available,4.99,,high,low,7,name.com,,,
-21b6e35d-93ea-4317-92f4-2ab2bbe5f7ba,antigua.watch,available,3.48,56.98,high,low,7,namecheap,,,19/09/2026 14:32
-09b898b8-f792-4ed9-b31e-1799ebfbdb63,inhuman.watch,available,3.48,56.98,medium,low,7,namecheap,,,12/08/2026 16:25
-49879ca2-cd5f-40b0-ac6d-08aeda5e3895,alarmingly.watch,available,3.48,56.98,low,low,10,namecheap,,,13/09/2026 18:33
-e8c26576-2bb8-40b1-b554-b08723e05f68,bantam.watch,available,3.48,56.98,medium,low,6,namecheap,,,08/08/2026 14:01
-e3512b82-5971-4814-9c14-bbf63b65c0af,dilatory.watch,available,3.48,56.98,medium,low,8,namecheap,,,14/08/2026 07:31
-29f70988-60ff-48ce-8063-207b59c8ef36,fiction.watch,available,4.99,,high,low,7,name.com,,,
-5dc0462d-2372-4122-817c-9686139775f0,gullible.watch,available,3.48,56.98,medium,low,8,namecheap,,,18/08/2026 07:40
-2a7d25af-a3fb-4b3e-92b3-b5dd41d900d1,massages.watch,available,5.99,44.49,medium,low,8,namesilo,,,20/09/2026 09:22
-0e178bff-4e3a-4916-b0b7-e9192445efca,seasonal.watch,available,3.48,56.98,high,low,8,namecheap,,,10/09/2026 00:58
-d4b624c6-2950-4f22-b06e-dbe9ed533201,tuba.watch,available,3.48,56.98,high,low,4,namecheap,,,22/09/2026 11:52
-954cee8e-9908-41d3-9ec6-114dbfbd8896,lxxxv.watch,available,3.48,56.98,medium,low,5,namecheap,,,
-48356ba4-e0db-4c66-bdb7-96f64b524881,untalented.watch,available,3.48,56.98,medium,low,10,namecheap,,,11/09/2026 07:26
-e86a339a-8e10-4831-b744-1200bf1c6137,brassiere.watch,available,5.99,44.49,high,low,9,namesilo,,,22/09/2026 01:02
-e6146d63-0801-473f-b75a-b5215a782004,oily.watch,available,3.48,56.98,medium,low,4,namecheap,,,11/08/2026 11:42
-e4bdc9a2-19f1-46e4-98dd-af183e67d6db,drifting.watch,available,3.48,56.98,high,low,8,namecheap,,,14/08/2026 19:13
-0caf19f3-0f71-44fa-bae8-818cbd8d2817,connect.watch,resell,,,high,medium,7,"Spaceship, Inc.",28/11/2025 03:45,28/11/2026 03:45,28/09/2026 07:46
-87f125d0-7244-4f6a-8e56-d32fecf1000f,hadal.watch,available,3.48,56.98,medium,low,5,namecheap,,,20/08/2026 21:30
-4e401852-abcf-4fb3-8f22-71f48199094b,undyed.watch,available,3.48,56.98,medium,low,6,namecheap,,,12/09/2026 02:08
-92c1aeb2-8dbc-4a9a-9f04-91f21bd7db9d,rake.watch,available,5.99,44.49,high,low,4,namesilo,,,27/09/2026 07:07
-b49b5093-cc4c-4874-83f6-530d9dc0fb4b,emotions.watch,available,5.99,44.49,medium,low,8,namesilo,,,27/09/2026 02:04
-3231085a-b1b6-4bcb-bb98-b180be6315ff,acronymous.watch,available,3.48,56.98,medium,low,10,namecheap,,,
-dfb932c1-0294-4b86-aa00-f4e0c8fce16b,nay.watch,resell,,,medium,low,3,"GoDaddy.com, LLC",19/05/2026 00:08,19/05/2027 00:08,26/09/2026 07:43
-1bbba697-93af-45b3-b249-0d4481479a34,acquiesce.watch,available,5.99,44.49,medium,low,9,namesilo,,,20/09/2026 16:11
-cc8de10f-2514-471c-8992-330538840d7f,read.watch,resell,,,high,medium,4,Porkbun LLC,27/05/2026 16:55,27/05/2027 16:55,26/09/2026 08:30
-709c542f-4c99-4720-8302-9c1750e2e92b,turns.watch,available,5.99,44.49,medium,low,5,namesilo,,,18/09/2026 14:48
-9f093161-2d13-4d6a-8f9b-02d04b5360bb,tablespoons.watch,available,5.99,44.49,medium,low,11,namesilo,,,20/09/2026 10:16
-b26368b8-1e9c-486f-98d3-cd8773630249,venushair.watch,available,5.99,44.49,medium,low,9,namesilo,,,17/09/2026 08:07
-2a251f2a-70d0-4ec6-9dca-f13b511f42d2,gomez.watch,premium,78.54,78.54,high,low,5,namesilo,,,25/09/2026 16:06
-4c73ce2c-b385-41b1-861e-44c093b41733,shocked.watch,available,3.48,56.98,high,low,7,namecheap,,,
-a45dde26-c93f-480d-94ea-7d328090f702,marriage.watch,available,5.99,44.49,high,low,8,namesilo,,,25/09/2026 11:54
-ec5617de-ce43-474a-bfdb-c222cd3a7162,victor.watch,premium,78.54,78.54,high,medium,6,namesilo,,,
-40a12680-ac7a-4f08-baef-9d001bf43edc,problem.watch,available,,,high,low,7,,,,
-576e373d-7db8-4526-bb1b-71cf4be95261,torrent.watch,resell,,,high,low,7,"GoDaddy.com, LLC",11/04/2015 20:31,11/04/2027 20:31,26/09/2026 09:41
-26f83f64-9cb4-402e-ad98-95fbdd607a9a,remotely.watch,available,3.48,56.98,medium,low,8,namecheap,,,15/09/2026 23:10
-3a5a611e-ca50-41ab-bc9a-d4865a1ef47c,alarmist.watch,available,3.48,56.98,medium,low,8,namecheap,,,18/09/2026 01:59
-76c908ec-4610-4b47-b1d9-2ee26ae66844,dew.watch,available,4.99,,high,low,3,name.com,,,
-4d49735c-7559-47d9-8905-801ea996f3ee,rurally.watch,available,3.48,56.98,medium,low,7,namecheap,,,16/09/2026 00:20
-cfca27f2-b6c7-48e2-be68-29125ede057a,chanted.watch,available,3.48,56.98,medium,low,7,namecheap,,,12/08/2026 02:00
-8eed500a-9bdc-4593-a3cd-cd920c801b4b,contrabass.watch,available,3.48,56.98,medium,low,10,namecheap,,,12/08/2026 23:28
-80b9e89d-82bc-41f5-9122-d28236f9c816,quintet.watch,available,3.48,56.98,high,low,7,namecheap,,,
-07542547-eb38-4085-835a-8d8b47a1600d,hey.watch,premium,123.75,,high,medium,3,name.com,,,
-84634ecf-4244-4219-88c5-890541191bb1,awards.watch,premium,118.8,118.8,medium,low,6,namesilo,,,28/09/2026 08:41
-da7bc49f-c32b-4ce9-b3fb-1d20147cc080,blahs.watch,available,5.99,44.49,medium,low,5,namesilo,,,24/09/2026 03:42
-a447ce6f-c56b-452e-8d06-88de14ff5a6e,bodied.watch,available,3.48,56.98,medium,low,6,namecheap,,,10/08/2026 16:44
-af30e05f-b438-4bfe-8b99-48f881fd4465,ginsberg.watch,available,3.48,56.98,medium,low,8,namecheap,,,18/09/2026 10:49
-fccd52b2-d3db-46e4-bdf2-81e55daed139,shake.watch,available,5.99,44.49,high,low,5,namesilo,,,25/09/2026 06:52
-88ec7588-f661-48b7-9595-e01c55030517,canorous.watch,available,3.48,56.98,medium,low,8,namecheap,,,11/08/2026 17:35
-ef5e6c77-04bf-46f7-a1cd-ea106b1b7091,diaphanous.watch,available,3.48,56.98,medium,low,10,namecheap,,,12/08/2026 14:26
-35c5396d-93bc-4ef5-80a8-17d4f77fb971,lukewarm.watch,available,3.48,56.98,medium,low,8,namecheap,,,20/08/2026 22:43
-f6c554d5-197a-4c72-b8ce-5cce0ba641de,banish.watch,available,3.48,56.98,medium,low,6,namecheap,,,24/09/2026 01:57
-49d145ee-44fe-4880-94dd-111f6f4ba851,yams.watch,available,5.99,44.49,medium,low,4,namesilo,,,19/09/2026 22:19
-9a522ec3-8b72-40cb-880c-9f145804f44b,rain.watch,premium,118.8,118.8,high,medium,4,namesilo,,,19/09/2026 07:28
-ebe18f47-e46f-4fa9-8970-5741b329dfb0,archetype.watch,available,5.99,44.49,high,low,9,namesilo,,,20/09/2026 02:02
-67c234f7-6d7e-4216-b823-fdeaa39d6503,faintly.watch,available,3.48,56.98,medium,low,7,namecheap,,,14/09/2026 17:33
-72d9285a-228b-4210-871f-7c3ed4e593b6,visiting.watch,available,4.99,,high,low,8,name.com,,,
-0cb803de-0598-4aa3-a6c5-10e04f8b9510,araceae.watch,available,5.99,44.49,medium,low,7,namesilo,,,19/09/2026 23:36
-2e93c8c8-3766-4e5b-bdb6-7731842222a0,addition.watch,available,4.99,,high,low,8,name.com,,,
